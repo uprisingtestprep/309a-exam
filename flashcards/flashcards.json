@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "common_occupational_skills",
+    "front": "What is the Internal Responsibility System (IRS)?",
+    "back": "The IRS is the foundation of Canadian health and safety law. It means everyone in the workplace shares responsibility for safety, from the worker up to the employer. Each person looks after their own safety and the safety of those around them."
+  },
+  {
+    "id": 2,
+    "domain": "common_occupational_skills",
+    "front": "What are a worker's three basic safety rights in Canada?",
+    "back": "Workers have the right to know about hazards, the right to participate in safety decisions, and the right to refuse unsafe work. These rights are protected by provincial and territorial occupational health and safety law. An employer cannot punish a worker for refusing work they reasonably believe is dangerous."
+  },
+  {
+    "id": 3,
+    "domain": "common_occupational_skills",
+    "front": "What is the hierarchy of controls for managing hazards?",
+    "back": "The order from most to least effective is elimination, substitution, engineering controls, administrative controls, then personal protective equipment. You try to remove or replace the hazard first. PPE is the last line of defence, not the first choice."
+  },
+  {
+    "id": 4,
+    "domain": "common_occupational_skills",
+    "front": "What is lock-out/tag-out (LOTO)?",
+    "back": "Lock-out/tag-out is a procedure to make sure equipment stays de-energized while you work on it. Each worker applies their own personal lock and tag to the energy isolating device. The equipment cannot be turned back on until every worker removes their own lock."
+  },
+  {
+    "id": 5,
+    "domain": "common_occupational_skills",
+    "front": "Why must each worker apply their own lock during lock-out?",
+    "back": "Each worker controls their own safety by holding the only key to their lock. This stops anyone else from re-energizing the equipment while that worker is still exposed. A group lock box is used when many workers are on the same job."
+  },
+  {
+    "id": 6,
+    "domain": "common_occupational_skills",
+    "front": "What are the basic steps of an electrical lock-out?",
+    "back": "Notify affected people, shut down the equipment, isolate the energy source, apply your lock and tag, then release stored energy. After that you verify the circuit is dead with a tested meter before touching it. This is often called the test-before-touch step."
+  },
+  {
+    "id": 7,
+    "domain": "common_occupational_skills",
+    "front": "What does 'test before touch' mean?",
+    "back": "Test before touch means you prove a circuit is de-energized with a meter before working on it. You first check the meter on a known live source, test the dead circuit, then re-check on the live source again. This confirms your meter is working and the circuit is truly dead."
+  },
+  {
+    "id": 8,
+    "domain": "common_occupational_skills",
+    "front": "What standard covers electrical workplace safety in Canada?",
+    "back": "CSA Z462 is the Canadian standard for electrical workplace safety. It covers safe work practices, arc flash hazards, working distances, and PPE for electrical work. It works alongside the Canadian Electrical Code, which covers installation."
+  },
+  {
+    "id": 9,
+    "domain": "common_occupational_skills",
+    "front": "What is arc flash?",
+    "back": "An arc flash is a sudden release of energy from an electrical fault that jumps through the air. It produces extreme heat, intense light, and a pressure blast that can cause severe burns. Temperatures at the arc can reach thousands of degrees in a fraction of a second."
+  },
+  {
+    "id": 10,
+    "domain": "common_occupational_skills",
+    "front": "What is the arc flash boundary?",
+    "back": "The arc flash boundary is the distance from a potential arc where the heat could cause a second-degree burn. Anyone inside this boundary must wear rated arc flash PPE. It is defined under CSA Z462."
+  },
+  {
+    "id": 11,
+    "domain": "common_occupational_skills",
+    "front": "What does the term 'incident energy' mean in arc flash work?",
+    "back": "Incident energy is the amount of heat energy that lands on a surface a set distance from an arc. It is measured in calories per square centimetre. Arc-rated clothing is chosen so its rating is equal to or greater than the incident energy at the work location."
+  },
+  {
+    "id": 12,
+    "domain": "common_occupational_skills",
+    "front": "What does 'arc-rated' (AR) clothing mean?",
+    "back": "Arc-rated clothing is tested to resist ignition and provide thermal protection during an arc flash. The arc rating, called ATPV, is given in calories per square centimetre. All arc-rated clothing is flame resistant, but not all flame-resistant clothing is arc-rated."
+  },
+  {
+    "id": 13,
+    "domain": "common_occupational_skills",
+    "front": "What is WHMIS 2015?",
+    "back": "WHMIS 2015 is Canada's hazardous materials information system, aligned with the global GHS standard. It uses standard pictograms, labels, and safety data sheets to warn workers about chemical hazards. The 2015 update brought Canada in line with international labelling."
+  },
+  {
+    "id": 14,
+    "domain": "common_occupational_skills",
+    "front": "What information is on a WHMIS supplier label?",
+    "back": "A supplier label shows the product name, supplier name, hazard pictograms, a signal word, hazard statements, and precautionary statements. It tells a worker at a glance what the danger is and how to handle the product. A workplace label is simpler and used when product is moved to a new container."
+  },
+  {
+    "id": 15,
+    "domain": "common_occupational_skills",
+    "front": "What is a Safety Data Sheet (SDS)?",
+    "back": "An SDS is a detailed document giving full information on a hazardous product. It has 16 standard sections covering hazards, first aid, handling, storage, and disposal. Workers must be able to access the SDS for any controlled product on site."
+  },
+  {
+    "id": 16,
+    "domain": "common_occupational_skills",
+    "front": "What does the WHMIS exploding bomb pictogram warn about?",
+    "back": "The exploding bomb pictogram warns of explosives, self-reactive substances, and organic peroxides. These products can blow up under heat, shock, or friction. Store and handle them away from heat and impact."
+  },
+  {
+    "id": 17,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of fall protection?",
+    "back": "Fall protection keeps a worker from falling or stops the fall safely before they hit a lower level or object. In most provinces it is required when working at a height of about three metres or more. It includes guardrails, travel restraint systems, and fall arrest systems."
+  },
+  {
+    "id": 18,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between travel restraint and fall arrest?",
+    "back": "Travel restraint stops a worker from reaching the edge so they cannot fall at all. Fall arrest allows a fall but stops it safely after it starts, using a harness, lanyard, and anchor. Travel restraint is preferred because preventing the fall is safer than stopping one."
+  },
+  {
+    "id": 19,
+    "domain": "common_occupational_skills",
+    "front": "What is a shock-absorbing lanyard and why is it used?",
+    "back": "A shock-absorbing lanyard has a section that tears or stretches to slow the worker during a fall. This reduces the sudden force on the body to a safe level. It is used in a fall arrest system to lower the risk of injury when the fall is stopped."
+  },
+  {
+    "id": 20,
+    "domain": "common_occupational_skills",
+    "front": "What is the 4-to-1 ratio for a straight ladder?",
+    "back": "A straight or extension ladder should be set so the base is one foot out for every four feet of working height. This gives a stable angle of about 75 degrees. Too steep risks tipping back, too shallow risks the base sliding out."
+  },
+  {
+    "id": 21,
+    "domain": "common_occupational_skills",
+    "front": "What does the CSA ladder grade I or IA mean for electricians?",
+    "back": "CSA grades ladders by duty rating, and Grade I and IA are heavy and extra-heavy duty. Electricians use fibreglass ladders rated for industrial use because fibreglass does not conduct electricity. Metal ladders are avoided near live electrical work."
+  },
+  {
+    "id": 22,
+    "domain": "common_occupational_skills",
+    "front": "Why do electricians use fibreglass ladders instead of aluminum?",
+    "back": "Fibreglass does not conduct electricity, so it lowers the shock risk if the ladder contacts a live source. Aluminum is a conductor and is dangerous near electrical work. Fibreglass is the standard choice for electrical trades."
+  },
+  {
+    "id": 23,
+    "domain": "common_occupational_skills",
+    "front": "What is three-point contact on a ladder?",
+    "back": "Three-point contact means keeping two hands and one foot, or two feet and one hand, on the ladder at all times. This keeps you stable while climbing or working. You should face the ladder and avoid carrying loads in your hands while climbing."
+  },
+  {
+    "id": 24,
+    "domain": "common_occupational_skills",
+    "front": "What is a confined space?",
+    "back": "A confined space is an enclosed area not designed for continuous work, with limited entry and exit. Examples include tanks, vaults, manholes, and pits. The danger comes from poor air, hazardous build-up, or the shape that makes rescue difficult."
+  },
+  {
+    "id": 25,
+    "domain": "common_occupational_skills",
+    "front": "What must be done before entering a confined space?",
+    "back": "The space must be assessed, the air tested, and a written entry permit completed. Atmospheric testing checks for oxygen level, flammable gases, and toxic gases. An attendant stays outside and a rescue plan must be in place before anyone enters."
+  },
+  {
+    "id": 26,
+    "domain": "common_occupational_skills",
+    "front": "What is the safe oxygen range for a confined space atmosphere?",
+    "back": "Normal air is about 20.9 percent oxygen, and the safe working range is roughly 19.5 to 23 percent. Below 19.5 percent is oxygen deficient and dangerous. Above 23 percent is oxygen enriched and increases fire risk."
+  },
+  {
+    "id": 27,
+    "domain": "common_occupational_skills",
+    "front": "What is a Class A fire?",
+    "back": "A Class A fire involves ordinary combustibles like wood, paper, cloth, and most plastics. Water or a multipurpose ABC extinguisher works on these. This is the most common everyday fire type."
+  },
+  {
+    "id": 28,
+    "domain": "common_occupational_skills",
+    "front": "What is a Class C fire and which extinguisher is used?",
+    "back": "A Class C fire involves energized electrical equipment. You must use a non-conductive extinguisher such as carbon dioxide or a dry chemical ABC unit. Never use water on a live electrical fire because water conducts electricity."
+  },
+  {
+    "id": 29,
+    "domain": "common_occupational_skills",
+    "front": "What does the PASS method mean for a fire extinguisher?",
+    "back": "PASS stands for Pull, Aim, Squeeze, and Sweep. Pull the pin, aim at the base of the fire, squeeze the handle, and sweep side to side. Aiming at the base is key because that is where the fuel is."
+  },
+  {
+    "id": 30,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of a GFCI on a job site?",
+    "back": "A ground fault circuit interrupter protects people from electric shock. It trips quickly when it senses current leaking to ground, such as through a person. Portable GFCIs are commonly used to protect temporary tools and cords on construction sites."
+  },
+  {
+    "id": 31,
+    "domain": "common_occupational_skills",
+    "front": "Why must you inspect power tool cords before use?",
+    "back": "Damaged cords expose live conductors and can cause shock or fire. Checking for cuts, cracks, and missing ground pins finds problems before they hurt someone. A tool with a damaged cord should be tagged out and removed from service."
+  },
+  {
+    "id": 32,
+    "domain": "common_occupational_skills",
+    "front": "What is double insulation on a power tool?",
+    "back": "A double-insulated tool has two layers of insulation between live parts and the user, so it does not need a separate ground wire. It is marked with a square-within-a-square symbol. The plastic housing forms part of the protection."
+  },
+  {
+    "id": 33,
+    "domain": "common_occupational_skills",
+    "front": "What do CAT III and CAT IV ratings on a meter mean?",
+    "back": "CAT ratings show how much transient voltage surge a meter can safely handle. CAT III covers distribution-level circuits like panels and feeders, and CAT IV covers the utility source and service entrance. A higher CAT number means more protection at the same voltage."
+  },
+  {
+    "id": 34,
+    "domain": "common_occupational_skills",
+    "front": "Why does CAT rating matter more than just voltage rating?",
+    "back": "A meter can carry the right voltage rating but still fail dangerously if used at a location with high transient energy. The CAT rating tells you the location and surge level the meter can survive. Always match or exceed the CAT level of the circuit you are testing."
+  },
+  {
+    "id": 35,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of a non-contact voltage tester?",
+    "back": "A non-contact tester senses voltage near a wire without touching the conductor. It gives a quick check that a circuit may be live before you start work. It is a first warning only and should never replace a proper meter test for de-energization."
+  },
+  {
+    "id": 36,
+    "domain": "common_occupational_skills",
+    "front": "What is a clamp meter used for?",
+    "back": "A clamp meter measures current by clamping its jaws around a single conductor, without breaking the circuit. It reads the magnetic field around the wire to show the current. Many clamp meters also measure voltage and resistance with probes."
+  },
+  {
+    "id": 37,
+    "domain": "common_occupational_skills",
+    "front": "What is the working load limit (WLL) of rigging gear?",
+    "back": "The working load limit is the maximum load a sling, hook, or shackle is rated to carry safely. It is set well below the breaking strength to give a safety margin. You must never exceed the WLL marked on the gear."
+  },
+  {
+    "id": 38,
+    "domain": "common_occupational_skills",
+    "front": "How does sling angle affect rigging capacity?",
+    "back": "As the angle between a sling leg and the load gets smaller, the tension in each leg goes up. A wider, flatter sling angle puts more strain on the slings even for the same load. Riggers keep sling angles as steep as practical to keep tension low."
+  },
+  {
+    "id": 39,
+    "domain": "common_occupational_skills",
+    "front": "What is a tag line used for during a lift?",
+    "back": "A tag line is a rope attached to a suspended load so a worker can steady and guide it from a safe distance. It keeps the worker out from under the load while controlling its swing and spin. Workers should never place hands directly on a load being hoisted."
+  },
+  {
+    "id": 40,
+    "domain": "common_occupational_skills",
+    "front": "What are common crane hand signals used by a signaller?",
+    "back": "Standard hand signals tell the operator to hoist, lower, swing, or stop. Only one designated signaller directs the crane to avoid confusion. Anyone can give an emergency stop signal, which must always be obeyed."
+  },
+  {
+    "id": 41,
+    "domain": "common_occupational_skills",
+    "front": "What is the Canadian Electrical Code (CEC)?",
+    "back": "The Canadian Electrical Code, also called CSA C22.1, is the standard for safe electrical installation in Canada. Provinces adopt it, sometimes with their own amendments, and it becomes law. Electricians use it to size conductors, choose protection, and meet installation rules."
+  },
+  {
+    "id": 42,
+    "domain": "common_occupational_skills",
+    "front": "How is the Canadian Electrical Code organized?",
+    "back": "The CEC is divided into sections, with general rules in the lower-numbered sections and special equipment or locations in higher sections. Tables at the back give data such as conductor ampacity and conduit fill. Diagrams and appendices give extra guidance and explanation."
+  },
+  {
+    "id": 43,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between a one-line diagram and a wiring diagram?",
+    "back": "A one-line, or single-line, diagram shows the main power path using single lines and symbols for a simple overview. A wiring diagram shows the actual connections, terminals, and conductor routing in detail. The one-line is for system layout, the wiring diagram is for hookup."
+  },
+  {
+    "id": 44,
+    "domain": "common_occupational_skills",
+    "front": "What is a scale on a construction drawing?",
+    "back": "A scale is the ratio between the drawing size and the real building size, such as 1:50. It lets you measure distances on paper and convert them to actual dimensions. Always confirm the scale shown in the title block before measuring."
+  },
+  {
+    "id": 45,
+    "domain": "common_occupational_skills",
+    "front": "What is found in the title block of a drawing?",
+    "back": "The title block sits in the corner of a drawing and gives key information about the sheet. It shows the project name, drawing number, scale, date, and revision number. Checking the revision number makes sure you are working from the current set."
+  },
+  {
+    "id": 46,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of an expansion anchor in concrete?",
+    "back": "An expansion anchor grips the sides of a drilled hole when it is tightened, holding a fixture to concrete. As the bolt is set, a sleeve or wedge spreads out against the hole walls. It is used to mount equipment, supports, and boxes to masonry."
+  },
+  {
+    "id": 47,
+    "domain": "common_occupational_skills",
+    "front": "When would you use a toggle bolt?",
+    "back": "A toggle bolt is used to fasten into hollow walls like drywall where there is no solid backing. Spring-loaded wings open behind the wall to spread the load. It supports light to medium loads that a plain screw could not hold."
+  },
+  {
+    "id": 48,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between a machine screw and a self-tapping screw?",
+    "back": "A machine screw needs a pre-threaded hole or a nut and has uniform threads along its length. A self-tapping screw cuts its own threads as it is driven into the material. Self-tapping screws speed up work in sheet metal and enclosures."
+  },
+  {
+    "id": 49,
+    "domain": "common_occupational_skills",
+    "front": "Why is proper torque important on electrical connections?",
+    "back": "A connection that is too loose creates resistance, heat, and arcing, while too tight can crack or strip the lug. Manufacturers list torque values so the joint stays tight and cool. A calibrated torque wrench or driver is used to meet the specified value."
+  },
+  {
+    "id": 50,
+    "domain": "common_occupational_skills",
+    "front": "Why is clear communication important on a job site?",
+    "back": "Clear communication prevents mistakes, delays, and accidents when many trades work together. Confirming instructions and asking questions keeps everyone on the same plan. Good communication is part of working safely and finishing the job right."
+  },
+  {
+    "id": 51,
+    "domain": "common_occupational_skills",
+    "front": "What is the role of a journeyperson mentoring an apprentice?",
+    "back": "A journeyperson teaches the apprentice safe work habits, trade skills, and code knowledge through hands-on guidance. They model good practice and correct mistakes patiently. Strong mentoring builds skilled, safe tradespeople for the future."
+  },
+  {
+    "id": 52,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of a daily toolbox or tailgate meeting?",
+    "back": "A toolbox meeting is a short safety talk at the start of a shift or task. The crew reviews the day's hazards, controls, and any changes on site. It keeps safety front of mind and gives workers a chance to raise concerns."
+  },
+  {
+    "id": 53,
+    "domain": "common_occupational_skills",
+    "front": "What should you do first when you find an unconscious person near electrical equipment?",
+    "back": "Do not touch the person until you know the power is off, because they may still be in contact with a live source. Shut off the power or use a safe method to break contact, then call for help. Once it is safe, begin first aid and CPR if you are trained."
+  },
+  {
+    "id": 54,
+    "domain": "common_occupational_skills",
+    "front": "What does the term 'electrical burn' cover in first aid?",
+    "back": "An electrical burn can have small entry and exit marks on the skin but cause serious damage inside the body. The current can injure muscles, nerves, and the heart along its path. Anyone who has taken a shock should be assessed by medical staff even if they look fine."
+  },
+  {
+    "id": 55,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of a first aid kit and trained first aider on site?",
+    "back": "A first aid kit and trained first aider give quick care for injuries until medical help arrives. Provincial regulations set the kit contents and number of first aiders based on crew size and risk. Fast first aid can reduce the seriousness of an injury."
+  },
+  {
+    "id": 56,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the service entrance in an electrical installation?",
+    "back": "The service entrance is the point where the utility supply conductors connect to the building's electrical system. It includes the service conductors, service box, and main overcurrent device. It is the boundary between the utility's wiring and the customer's wiring."
+  },
+  {
+    "id": 57,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What are the three most common Canadian voltage systems for buildings?",
+    "back": "The common systems are 120/240V single phase for homes and small buildings, 120/208V three phase for small commercial, and 347/600V three phase for larger commercial and industrial. Higher voltages reduce current and allow smaller conductors for the same power."
+  },
+  {
+    "id": 58,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "In a 120/240V single phase service, where does the 240V come from?",
+    "back": "A centre-tapped transformer secondary gives two hot legs that are 240V apart and 120V from each leg to the neutral. Loads like ranges and dryers use the full 240V across both legs. Lighting and receptacles use 120V from one leg to neutral."
+  },
+  {
+    "id": 59,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What voltage do you get line to neutral on a 120/208V wye system?",
+    "back": "Line to neutral is 120V and line to line is 208V. The 208V comes from 120 times the square root of 3, which is about 1.732. This system feeds 120V receptacles and 208V three phase motors."
+  },
+  {
+    "id": 60,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What voltage do you get line to neutral on a 347/600V wye system?",
+    "back": "Line to neutral is 347V and line to line is 600V. The 600V comes from 347 times the square root of 3. The 347V is commonly used directly for commercial fluorescent and LED lighting."
+  },
+  {
+    "id": 61,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why are higher distribution voltages like 600V used in large buildings?",
+    "back": "Higher voltage carries the same power at lower current, so conductors can be smaller and voltage drop is reduced over long runs. This lowers copper cost and energy loss. Equipment must be rated for the higher voltage and insulation level."
+  },
+  {
+    "id": 62,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a panelboard?",
+    "back": "A panelboard is an assembly of branch circuit overcurrent devices, usually breakers, mounted in a single enclosure. It distributes power from a main feeder to many smaller branch circuits. It is accessed from the front only and mounted in or against a wall."
+  },
+  {
+    "id": 63,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a panelboard and a switchboard?",
+    "back": "A panelboard is a smaller wall-mounted unit accessed from the front, feeding branch circuits. A switchboard is a larger free-standing assembly, often accessed front and rear, that handles main distribution at higher current. Switchboards typically sit between the service and downstream panelboards."
+  },
+  {
+    "id": 64,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is switchgear?",
+    "back": "Switchgear is a metal-enclosed assembly of switching and protective devices used to control, protect, and isolate electrical equipment. It is built to higher fault-withstand and safety standards than a switchboard. It is common in industrial and utility installations."
+  },
+  {
+    "id": 65,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a busway (bus duct)?",
+    "back": "A busway is a prefabricated assembly of busbars in a protective enclosure used to distribute power along a run. It allows tap-off points where loads can be connected. It is common in industrial plants and high-rise buildings for flexible, high-current distribution."
+  },
+  {
+    "id": 66,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a busbar?",
+    "back": "A busbar is a solid metal conductor, usually copper or aluminum, that carries large currents and serves as a common connection point. It is found in panelboards, switchboards, and switchgear. Multiple circuits connect to it to share a single supply."
+  },
+  {
+    "id": 67,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of an electric meter?",
+    "back": "A meter records the amount of electrical energy a customer uses so the utility can bill for it. Energy is measured in kilowatt hours. Modern smart meters also record demand and can report data remotely."
+  },
+  {
+    "id": 68,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between energy and demand on a utility bill?",
+    "back": "Energy in kilowatt hours is the total amount of electricity used over time. Demand in kilowatts is the highest rate of use during a billing period. Large customers are often charged for both, with demand charges covering peak capacity."
+  },
+  {
+    "id": 69,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a current transformer (CT) used for in metering?",
+    "back": "A current transformer steps down high current to a small standard value, often 5A, that a meter or relay can safely read. It lets instruments measure large currents without carrying them directly. The secondary must never be left open while energized."
+  },
+  {
+    "id": 70,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why must a current transformer secondary never be open-circuited under load?",
+    "back": "An open CT secondary causes dangerously high voltage to build up across the terminals and can destroy the CT and injure workers. The core saturates and produces a voltage spike. Always short the secondary before disconnecting a meter."
+  },
+  {
+    "id": 71,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of overcurrent protection?",
+    "back": "Overcurrent protection guards conductors and equipment against currents higher than they are rated to carry. It prevents overheating, insulation damage, and fire. It operates on both overloads and short-circuit faults."
+  },
+  {
+    "id": 72,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between an overload and a short circuit?",
+    "back": "An overload is a moderate excess current caused by too much load on a circuit operating normally otherwise. A short circuit is a much larger fault current caused by an unintended low-resistance connection between conductors. Short circuits develop almost instantly and require fast interruption."
+  },
+  {
+    "id": 73,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a circuit breaker?",
+    "back": "A circuit breaker is an automatic switch that opens a circuit when current exceeds a safe level. It protects against both overloads and short circuits and can be reset after tripping. It uses thermal and magnetic elements to sense fault conditions."
+  },
+  {
+    "id": 74,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How does a thermal-magnetic breaker sense overloads versus short circuits?",
+    "back": "The thermal element uses a bimetal strip that bends with heat from sustained overload current and trips after a delay. The magnetic element uses a coil that trips instantly on the high current of a short circuit. Together they handle slow overloads and fast faults."
+  },
+  {
+    "id": 75,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a fuse?",
+    "back": "A fuse is a one-time overcurrent device with a metal element that melts and opens the circuit when current is too high. Once blown, it must be replaced rather than reset. Fuses are simple, reliable, and can interrupt very high fault currents."
+  },
+  {
+    "id": 76,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a time-delay fuse and a fast-acting fuse?",
+    "back": "A time-delay fuse tolerates short surges such as motor starting before opening, so it avoids nuisance blowing. A fast-acting fuse opens quickly to protect sensitive equipment from any overcurrent. The choice depends on the load type and inrush current."
+  },
+  {
+    "id": 77,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does AIC (interrupting rating) mean on an overcurrent device?",
+    "back": "AIC stands for amps interrupting capacity, the maximum fault current a breaker or fuse can safely interrupt without being destroyed. The device's AIC must be equal to or greater than the available fault current at that point. Using an underrated device is a serious safety hazard."
+  },
+  {
+    "id": 78,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What happens if a breaker's AIC rating is lower than the available fault current?",
+    "back": "During a fault the breaker may fail to interrupt, weld closed, or explode instead of safely opening. This can cause an arc flash and serious injury. The interrupting rating must always exceed the available fault current at the installation point."
+  },
+  {
+    "id": 79,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is overcurrent coordination (selective coordination)?",
+    "back": "Coordination means arranging protective devices so the one closest to a fault trips first, leaving upstream devices in service. This limits the outage to only the faulted circuit. It is achieved by comparing time-current curves of the devices."
+  },
+  {
+    "id": 80,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why is selective coordination important in a hospital or critical facility?",
+    "back": "It keeps a single fault from shutting down an entire facility by tripping only the affected branch. Power to other critical areas stays on. This is essential for life-safety and emergency systems."
+  },
+  {
+    "id": 81,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a time-current curve?",
+    "back": "A time-current curve is a graph showing how long a protective device takes to trip at various current levels. It is used to compare and coordinate devices. The curve helps confirm that downstream devices trip before upstream ones."
+  },
+  {
+    "id": 82,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does a ground fault circuit interrupter (GFCI) protect against?",
+    "back": "A GFCI protects people from electric shock by detecting small current leaking to ground, often as little as a few milliamps. It trips when current going out does not equal current returning. It is required in wet locations like bathrooms and outdoors."
+  },
+  {
+    "id": 83,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "At roughly what leakage current does a Class A GFCI trip?",
+    "back": "A Class A GFCI trips when ground leakage reaches about 5 milliamps, give or take 1 milliamp. This level is chosen to protect people before a shock becomes dangerous. It is the standard for personnel protection in Canada."
+  },
+  {
+    "id": 84,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does an arc fault circuit interrupter (AFCI) protect against?",
+    "back": "An AFCI detects the unique electrical signature of an arcing fault, such as from a damaged or loose wire, and opens the circuit. Arcs can start fires without drawing enough current to trip a normal breaker. AFCIs are required on many residential branch circuits."
+  },
+  {
+    "id": 85,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a GFCI and an AFCI?",
+    "back": "A GFCI protects people from shock by sensing current leaking to ground. An AFCI protects property from fire by sensing dangerous arcing. They guard against different hazards, and some devices combine both functions."
+  },
+  {
+    "id": 86,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a surge protective device (SPD)?",
+    "back": "A surge protective device limits transient overvoltages by diverting excess energy to ground. It protects equipment from spikes caused by lightning or switching. It clamps the voltage to a safe level for a brief moment."
+  },
+  {
+    "id": 87,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between Type 1 and Type 2 surge protective devices?",
+    "back": "A Type 1 SPD is installed on the line side of the main service disconnect to handle large external surges like lightning. A Type 2 SPD is installed on the load side, usually at a panelboard, to protect downstream equipment. They are often used together for layered protection."
+  },
+  {
+    "id": 88,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a metal oxide varistor (MOV)?",
+    "back": "An MOV is a common component inside surge protective devices that changes resistance with voltage. At normal voltage it acts like an insulator, and during a surge it conducts to divert energy. Repeated surges gradually wear it out."
+  },
+  {
+    "id": 89,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is an uninterruptible power supply (UPS)?",
+    "back": "A UPS provides instant backup power from batteries when the utility supply fails or dips. It keeps critical loads running long enough for a generator to start or for a safe shutdown. It also conditions power to smooth out sags and surges."
+  },
+  {
+    "id": 90,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between an online and a standby (offline) UPS?",
+    "back": "An online UPS always runs the load through its inverter, giving clean continuous power with no switchover time. A standby UPS passes utility power straight through and switches to battery only when the supply fails, with a brief transfer time. Online units offer better protection for sensitive equipment."
+  },
+  {
+    "id": 91,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is power conditioning?",
+    "back": "Power conditioning improves the quality of the electrical supply by smoothing voltage, filtering noise, and correcting disturbances. It protects sensitive electronics from sags, surges, and harmonics. Devices include line conditioners, isolation transformers, and UPS units."
+  },
+  {
+    "id": 92,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of an emergency or standby power system?",
+    "back": "It supplies power to critical loads when the normal utility supply is lost. Emergency systems serve life-safety loads like exit lighting and fire alarms, while standby systems serve other important loads. They are typically backed by generators or batteries."
+  },
+  {
+    "id": 93,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a transfer switch?",
+    "back": "A transfer switch connects a load to either the normal utility supply or a backup source such as a generator. It prevents the two sources from being connected at the same time. It can be manual or automatic."
+  },
+  {
+    "id": 94,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is an automatic transfer switch (ATS)?",
+    "back": "An ATS senses loss of utility power, signals the generator to start, and switches the load to the generator automatically. When utility power returns, it transfers the load back and stops the generator. It removes the need for an operator during an outage."
+  },
+  {
+    "id": 95,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why must a generator and utility never be paralleled through a basic transfer switch?",
+    "back": "Connecting a backup generator to the utility line, called backfeeding, can energize lines that workers believe are dead and cause electrocution. It can also damage the generator when utility power returns. A transfer switch mechanically prevents both sources connecting at once."
+  },
+  {
+    "id": 96,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between an open-transition and closed-transition transfer switch?",
+    "back": "An open-transition switch breaks before it makes, briefly disconnecting the load during transfer. A closed-transition switch momentarily parallels both sources so the load never loses power. Closed transition needs synchronizing controls and utility approval."
+  },
+  {
+    "id": 97,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How does an AC generator (alternator) produce electricity?",
+    "back": "An AC generator turns a magnetic field inside coils of wire, and the changing field induces alternating voltage in the windings. A prime mover such as an engine or turbine spins the rotor. The output frequency depends on rotor speed and number of poles."
+  },
+  {
+    "id": 98,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What speed must a 4-pole alternator turn to produce 60 Hz?",
+    "back": "Frequency equals poles times rpm divided by 120. For 60 Hz with 4 poles, rpm equals 120 times 60 divided by 4, which is 1800 rpm. A 2-pole machine would need 3600 rpm for the same frequency."
+  },
+  {
+    "id": 99,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the standard power frequency in Canada?",
+    "back": "Canada uses 60 hertz, meaning the AC voltage completes 60 cycles every second. This matches North America. Europe and many other regions use 50 hertz instead."
+  },
+  {
+    "id": 100,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between an AC generator and a DC generator?",
+    "back": "An AC generator produces alternating current using slip rings to take power from the rotating windings. A DC generator uses a commutator to mechanically reverse connections and produce direct current. Most modern systems use AC generators with rectifiers when DC is needed."
+  },
+  {
+    "id": 101,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the role of a commutator in a DC generator?",
+    "back": "A commutator is a segmented ring with brushes that reverses the coil connections at the right moment so the output stays one direction. This converts the naturally alternating coil voltage into direct current. It is a source of wear and sparking that needs maintenance."
+  },
+  {
+    "id": 102,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a prime mover in a generator set?",
+    "back": "The prime mover is the machine that supplies mechanical power to spin the generator, such as a diesel engine, gas engine, or turbine. Its speed sets the output frequency. A governor keeps the speed steady as load changes."
+  },
+  {
+    "id": 103,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does a governor do on a generator?",
+    "back": "A governor controls the prime mover's fuel or steam to hold engine speed steady as the electrical load changes. Stable speed means stable output frequency. Without it, frequency would drift up and down with load."
+  },
+  {
+    "id": 104,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is an exciter in an alternator?",
+    "back": "An exciter supplies the DC current that creates the magnetic field in the rotor of an alternator. Controlling this field current controls the output voltage. An automatic voltage regulator adjusts the exciter to keep voltage steady."
+  },
+  {
+    "id": 105,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does an automatic voltage regulator (AVR) do?",
+    "back": "An AVR keeps a generator's output voltage steady by adjusting the field excitation as load changes. When load increases and voltage sags, it boosts field current. This protects equipment from voltage swings."
+  },
+  {
+    "id": 106,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is solar photovoltaic (PV) generation?",
+    "back": "Solar PV converts sunlight directly into DC electricity using semiconductor cells. An inverter then changes the DC into AC for use or for feeding the grid. Output varies with sunlight intensity and panel orientation."
+  },
+  {
+    "id": 107,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Which CEC section covers renewable energy systems such as solar PV?",
+    "back": "Section 64 of the Canadian Electrical Code covers renewable energy systems including solar photovoltaic, wind, and similar sources. It sets rules for wiring, disconnects, and interconnection. It works together with other sections like 26 and 84."
+  },
+  {
+    "id": 108,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of a PV inverter?",
+    "back": "A PV inverter converts the DC output of solar panels into AC at the correct voltage and frequency. A grid-tied inverter also synchronizes with the utility so power can feed back. It includes safety features to disconnect when the grid goes down."
+  },
+  {
+    "id": 109,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is anti-islanding protection on a grid-tied inverter?",
+    "back": "Anti-islanding makes a grid-tied inverter shut down when it detects the utility has lost power. This prevents the inverter from energizing a dead utility line and endangering workers. It is a required safety function for interconnected systems."
+  },
+  {
+    "id": 110,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a string inverter and a microinverter?",
+    "back": "A string inverter handles many panels wired together in series as one circuit. A microinverter is mounted on each panel and converts its DC to AC individually. Microinverters improve performance when some panels are shaded but cost more per watt."
+  },
+  {
+    "id": 111,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why is a DC disconnect required on a solar PV system?",
+    "back": "A DC disconnect lets workers safely isolate the panels from the inverter and wiring for service. Solar arrays produce voltage whenever light hits them and cannot simply be switched off at the panel. The disconnect must be rated for DC and the array voltage."
+  },
+  {
+    "id": 112,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is high voltage in CEC terms for a building installation?",
+    "back": "In the Canadian Electrical Code, voltages above 750V are generally treated as high voltage with stricter rules. These installations need greater clearances, special insulation, and qualified workers. Common high-voltage levels include 4160V, 13.8kV, and 25kV."
+  },
+  {
+    "id": 113,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why is medium or high voltage used for distribution within large sites?",
+    "back": "Distributing at higher voltage moves large amounts of power with much lower current, so feeders are smaller and losses are lower over long distances. Transformers then step it down near the loads. This is common in campuses, plants, and high-rise buildings."
+  },
+  {
+    "id": 114,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a termination (pothead) on a high-voltage cable?",
+    "back": "A termination is a fitting that ends a high-voltage cable and controls the electrical stress where the insulation ends. It prevents flashover and keeps moisture out. Stress cones inside spread the electric field smoothly."
+  },
+  {
+    "id": 115,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why do high-voltage cables need stress cones at terminations?",
+    "back": "Cutting back the cable shielding concentrates the electric field at that point, which can cause the insulation to break down. A stress cone reshapes the field so it spreads out gradually. This prevents corona and flashover at the termination."
+  },
+  {
+    "id": 116,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the concentric neutral on a high-voltage cable?",
+    "back": "The concentric neutral is a layer of wires wrapped around the cable insulation that carries the neutral and grounds the shield. It also helps control the electric field and provides a fault return path. It is common on underground distribution cables."
+  },
+  {
+    "id": 117,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a transformer and what does it do?",
+    "back": "A transformer transfers electrical energy between circuits using magnetic coupling between two windings. It changes voltage up or down while keeping power nearly constant. It works only on alternating current."
+  },
+  {
+    "id": 118,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Which CEC section covers the installation of transformers?",
+    "back": "Section 26 of the Canadian Electrical Code covers the installation of transformers along with capacitors and similar equipment. It addresses overcurrent protection, location, and ventilation. It works with Section 10 for grounding."
+  },
+  {
+    "id": 119,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the turns ratio of a transformer?",
+    "back": "The turns ratio is the number of turns on the primary winding divided by the number on the secondary. It equals the ratio of primary voltage to secondary voltage. It sets how much the transformer steps voltage up or down."
+  },
+  {
+    "id": 120,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "A 480V to 120V transformer has what turns ratio?",
+    "back": "The turns ratio is primary voltage divided by secondary voltage, so 480 divided by 120 equals 4. This is written as 4 to 1. The primary has four times as many turns as the secondary."
+  },
+  {
+    "id": 121,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "A 600V to 120V transformer has what turns ratio?",
+    "back": "The turns ratio is 600 divided by 120, which equals 5. This is written as 5 to 1. The primary winding has five times as many turns as the secondary."
+  },
+  {
+    "id": 122,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "A transformer has 800 primary turns and 200 secondary turns. If the primary is 480V, what is the secondary voltage?",
+    "back": "The turns ratio is 800 divided by 200, which is 4 to 1. Secondary voltage is 480 divided by 4, which equals 120V. Voltage steps down in the same ratio as the turns."
+  },
+  {
+    "id": 123,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "In an ideal transformer, how does current relate to the turns ratio?",
+    "back": "Current is inversely proportional to the turns ratio, opposite to voltage. A step-down transformer that drops voltage also raises the available current on the secondary. This keeps input power roughly equal to output power."
+  },
+  {
+    "id": 124,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "A 10 to 1 step-down transformer draws 5A on the primary. What is the secondary current?",
+    "back": "Current changes inversely to the turns ratio, so secondary current is primary current times the ratio. That is 5A times 10, which equals 50A. Voltage drops tenfold while current rises tenfold."
+  },
+  {
+    "id": 125,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why do transformers only work on AC and not DC?",
+    "back": "Transformers rely on a changing magnetic field to induce voltage in the secondary winding. AC current constantly changes direction, so the field changes too. Steady DC produces a constant field that induces no voltage after the first instant."
+  },
+  {
+    "id": 126,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does the kVA rating of a transformer tell you?",
+    "back": "The kVA rating is the apparent power the transformer can deliver continuously without overheating. It is the product of voltage and current, in thousands of volt-amps. Loads are sized so their total kVA stays within this rating."
+  },
+  {
+    "id": 127,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why are transformers rated in kVA rather than kW?",
+    "back": "kVA is apparent power and does not depend on the load's power factor, while kW is real power that does. The transformer's heating comes from total current, which kVA represents. This lets one rating cover any kind of load."
+  },
+  {
+    "id": 128,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the full-load current of a 25 kVA single-phase 240V transformer secondary?",
+    "back": "Single-phase current equals kVA times 1000 divided by voltage. That is 25000 divided by 240, which equals about 104A. This is the most current that winding should carry continuously."
+  },
+  {
+    "id": 129,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How do you find full-load current of a three-phase transformer?",
+    "back": "Three-phase current equals kVA times 1000 divided by the product of line voltage and the square root of 3. The square root of 3 is about 1.732. This formula applies to balanced three-phase loads."
+  },
+  {
+    "id": 130,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the full-load secondary current of a 75 kVA three-phase 208V transformer?",
+    "back": "Current equals 75000 divided by 208 times 1.732, which is about 360. So the full-load current is roughly 208A. This sets the maximum continuous load on the secondary."
+  },
+  {
+    "id": 131,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the full-load secondary current of a 150 kVA three-phase 600V transformer?",
+    "back": "Current equals 150000 divided by 600 times 1.732, which is about 1039. So the full-load current is roughly 144A. Higher voltage gives lower current for the same kVA."
+  },
+  {
+    "id": 132,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a wye (star) transformer connection?",
+    "back": "In a wye connection, one end of each winding joins at a common neutral point and the other ends form the line terminals. It provides both line-to-line and line-to-neutral voltages. The neutral allows single-phase loads and grounding."
+  },
+  {
+    "id": 133,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a delta transformer connection?",
+    "back": "In a delta connection the windings are joined end to end in a closed triangle, with line terminals at the corners. It has no inherent neutral point. It is common on the primary side and for three-phase motor loads."
+  },
+  {
+    "id": 134,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "In a wye connection, how does line voltage relate to phase voltage?",
+    "back": "Line voltage equals phase voltage times the square root of 3, about 1.732. The line current equals the phase current. This is why 120V phase windings give 208V between lines."
+  },
+  {
+    "id": 135,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "In a delta connection, how does line current relate to phase current?",
+    "back": "Line current equals phase current times the square root of 3, about 1.732. The line voltage equals the phase voltage. This is the mirror image of the wye relationship."
+  },
+  {
+    "id": 136,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a common use of a delta-wye transformer?",
+    "back": "A delta-wye transformer takes a delta primary and gives a wye secondary with a neutral. This is the typical commercial setup that creates 120/208V or 347/600V four-wire systems. The neutral supports single-phase loads and grounding."
+  },
+  {
+    "id": 137,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is an autotransformer?",
+    "back": "An autotransformer uses a single winding with a tap, so the primary and secondary share part of the same coil. It is smaller and cheaper than a two-winding transformer for small voltage changes. It does not isolate the input from the output."
+  },
+  {
+    "id": 138,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why does an autotransformer not provide isolation?",
+    "back": "Because the primary and secondary share the same winding, there is a direct electrical connection between input and output. A fault or voltage on one side can appear on the other. A two-winding transformer is needed when isolation is required."
+  },
+  {
+    "id": 139,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a buck-boost transformer?",
+    "back": "A buck-boost transformer is a small transformer connected to slightly lower (buck) or raise (boost) a voltage. It is often wired as an autotransformer for efficiency. It corrects voltages that are a bit too high or too low for the equipment."
+  },
+  {
+    "id": 140,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a dry-type transformer?",
+    "back": "A dry-type transformer uses air and solid insulation to cool itself instead of oil. It is common indoors because it has no oil to leak or catch fire. It is typical for 600V class distribution inside buildings."
+  },
+  {
+    "id": 141,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a liquid-filled (oil) transformer?",
+    "back": "A liquid-filled transformer uses oil to insulate and carry heat away from the windings. The oil cools more effectively, so these units handle higher power. Because of fire risk they are usually placed outdoors or in special vaults."
+  },
+  {
+    "id": 142,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What are transformer taps used for?",
+    "back": "Taps are connection points on a winding that change the turns ratio slightly. They let an installer adjust the output voltage to match actual supply conditions. They compensate for voltage that runs consistently high or low."
+  },
+  {
+    "id": 143,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is transformer impedance and why does it matter?",
+    "back": "Transformer impedance, given as a percent, shows how much voltage drops inside the unit at full load. A lower impedance gives better voltage regulation but allows higher fault current. It is used to calculate available short-circuit current downstream."
+  },
+  {
+    "id": 144,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How does transformer impedance affect available fault current?",
+    "back": "Lower impedance lets more fault current flow because there is less internal opposition during a short. This raises the required interrupting rating of downstream devices. Impedance is a key value in fault-current calculations."
+  },
+  {
+    "id": 145,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is inrush current on a transformer?",
+    "back": "Inrush current is the large spike of current drawn for a moment when a transformer is first energized. It can be several times the normal full-load current. Overcurrent protection must tolerate this brief surge without nuisance tripping."
+  },
+  {
+    "id": 146,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of grounding a transformer's secondary neutral?",
+    "back": "Grounding the secondary neutral establishes a stable reference voltage and a path for fault current to operate protective devices. It limits voltage to ground during faults. This is required for most wye secondary systems."
+  },
+  {
+    "id": 147,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a separately derived system?",
+    "back": "A separately derived system is one whose power comes from a source like a transformer secondary or generator that has no direct electrical connection to the supply conductors. It gets its own grounding and bonding at the source. A typical example is the secondary of a step-down transformer in a building."
+  },
+  {
+    "id": 148,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between bonding and grounding?",
+    "back": "Bonding connects metal parts together so they stay at the same potential and provide a fault path. Grounding connects the system to the earth as a voltage reference. Both work together to keep equipment safe during faults."
+  },
+  {
+    "id": 149,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the main service disconnect?",
+    "back": "The main service disconnect is the switch or breaker that cuts all power entering the building from the utility. It must be readily accessible and clearly marked. It lets the whole installation be de-energized in an emergency."
+  },
+  {
+    "id": 150,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the maximum number of disconnects allowed for a single service in the CEC?",
+    "back": "A consumer's service is generally limited to a small number of disconnecting means, often up to a few mains grouped together. The intent is that all power can be shut off with a few clear operations. Always confirm the exact number against the current code edition."
+  },
+  {
+    "id": 151,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a service mast?",
+    "back": "A service mast is a sturdy metal pipe that carries overhead service conductors up above the roof to maintain clearance. It supports the weatherhead where the utility connects. It must be strong enough to handle the pull of the service drop."
+  },
+  {
+    "id": 152,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a weatherhead?",
+    "back": "A weatherhead is the weatherproof fitting at the top of a service mast or conduit where overhead conductors enter. Its shape and drip loops keep rain from running down into the conduit. It is also called a service head."
+  },
+  {
+    "id": 153,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a drip loop on a service entrance?",
+    "back": "A drip loop is a downward curve formed in the service conductors before they enter the weatherhead. Water runs to the bottom of the loop and drips off instead of entering the conduit. It keeps the service box and conduit dry."
+  },
+  {
+    "id": 154,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between an overhead and an underground service?",
+    "back": "An overhead service brings utility power on poles to a weatherhead on the building. An underground service runs the supply in buried conduit or direct-buried cable to the meter and panel. Underground costs more to install but is protected from weather and looks cleaner."
+  },
+  {
+    "id": 155,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a feeder?",
+    "back": "A feeder is the set of conductors between the service equipment and a downstream panel or distribution point. It carries power but does not directly supply the final load. Branch circuits then run from the panel to the actual loads."
+  },
+  {
+    "id": 156,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a feeder and a branch circuit?",
+    "back": "A feeder runs from the service or main panel to a subpanel or distribution centre. A branch circuit runs from the final overcurrent device to the outlets and equipment it serves. The branch circuit is the last leg before the load."
+  },
+  {
+    "id": 157,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is demand factor in service sizing?",
+    "back": "Demand factor recognizes that not all loads run at full power at the same time. It lets the calculated service size be smaller than the simple sum of all loads. The CEC gives demand factors for different load types in its calculation rules."
+  },
+  {
+    "id": 158,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a single-line (one-line) diagram?",
+    "back": "A single-line diagram shows the main power path of an electrical system using one line to represent all conductors of a circuit. It shows sources, transformers, switchgear, and major loads in simple form. It is the standard way to plan and study a distribution system."
+  },
+  {
+    "id": 159,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of a load study or load calculation before sizing a service?",
+    "back": "A load calculation totals the expected demand so the service and feeders are sized correctly. It prevents undersizing that causes overheating and oversizing that wastes money. The CEC gives required methods for residential and other occupancies."
+  },
+  {
+    "id": 160,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the minimum service size commonly required for a single dwelling in the CEC?",
+    "back": "A single dwelling is generally required to have a service rated at least 100A. Larger homes with electric heat or many loads need more, based on the load calculation. Always size from the calculated demand and confirm the current code minimum."
+  },
+  {
+    "id": 161,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a subpanel?",
+    "back": "A subpanel is a smaller panelboard fed from the main panel to distribute circuits in another area. Its neutral and ground bars are kept separate, unlike the main panel. It extends distribution closer to remote loads."
+  },
+  {
+    "id": 162,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why must the neutral and ground be separated in a subpanel?",
+    "back": "Bonding them together again in a subpanel would let neutral current flow on the grounding conductors and metal parts. The neutral and ground are joined only once, at the main service. Keeping them separate downstream prevents stray current and shock hazards."
+  },
+  {
+    "id": 163,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the main bonding jumper?",
+    "back": "The main bonding jumper is the connection that bonds the grounded neutral to the equipment ground and enclosure at the service. It establishes the fault-current path back to the source. It is installed at only one point in the system."
+  },
+  {
+    "id": 164,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a grounding electrode?",
+    "back": "A grounding electrode is the conductive part that connects the electrical system to the earth, such as a ground rod, ground plate, or water pipe. It provides the earth reference for the system. The grounding electrode conductor links it to the service."
+  },
+  {
+    "id": 165,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of a capacitor bank in a distribution system?",
+    "back": "A capacitor bank supplies reactive power to improve the power factor of a facility. Better power factor reduces current draw and demand charges. The capacitors offset the lagging effect of inductive loads like motors."
+  },
+  {
+    "id": 166,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is power factor?",
+    "back": "Power factor is the ratio of real power doing useful work to the apparent power supplied. A power factor near 1 means current is used efficiently. Inductive loads lower it, which raises current and utility charges."
+  },
+  {
+    "id": 167,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why do utilities penalize low power factor?",
+    "back": "Low power factor means the utility must supply more current for the same real power, straining the system. The extra current increases losses and required capacity. Customers are billed to encourage correction, often with capacitors."
+  },
+  {
+    "id": 168,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a harmonic in a power system?",
+    "back": "A harmonic is a current or voltage at a whole multiple of the fundamental 60 Hz frequency. Nonlinear loads like variable speed drives and electronics create them. They cause overheating, especially in neutrals and transformers."
+  },
+  {
+    "id": 169,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why can harmonics overload a neutral conductor in a three-phase system?",
+    "back": "Third harmonic currents from each phase add together in the shared neutral instead of cancelling. This can make neutral current higher than the phase current. Systems with many electronic loads may need an oversized neutral."
+  },
+  {
+    "id": 170,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a K-rated transformer?",
+    "back": "A K-rated transformer is built to handle the extra heating caused by harmonic currents from nonlinear loads. A higher K factor means more tolerance for harmonics. It is used where many electronic loads are present."
+  },
+  {
+    "id": 171,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a motor control centre (MCC)?",
+    "back": "A motor control centre is a free-standing assembly that groups motor starters, breakers, and controls in one lineup. It organizes the control of many motors in one place. It is common in industrial plants."
+  },
+  {
+    "id": 172,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the purpose of a disconnect switch at a piece of equipment?",
+    "back": "An equipment disconnect lets a worker isolate that specific machine for safe servicing. It must be within sight of the equipment in many cases. It supports lockout procedures during maintenance."
+  },
+  {
+    "id": 173,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a fused disconnect (fusible safety switch)?",
+    "back": "A fused disconnect combines a switch with fuses in one enclosure. It both isolates a circuit and provides overcurrent protection. It is common as a service or feeder disconnect for equipment."
+  },
+  {
+    "id": 174,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between a molded-case and an insulated-case circuit breaker?",
+    "back": "A molded-case breaker has its mechanism inside a sealed plastic housing and is common in panelboards. An insulated-case breaker is a larger, more robust unit with adjustable trip settings used in switchgear. Insulated-case breakers handle higher current and offer better coordination."
+  },
+  {
+    "id": 175,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is an electronic trip unit on a breaker?",
+    "back": "An electronic trip unit uses sensors and microprocessors to control when a breaker trips. It allows adjustable settings for long delay, short delay, instantaneous, and ground fault. This flexibility makes coordination between devices easier."
+  },
+  {
+    "id": 176,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What does the long-time pickup setting on an electronic trip unit control?",
+    "back": "Long-time pickup sets the current level at which the breaker begins timing out for an overload. It protects conductors from sustained overcurrent. It is typically set near the rated continuous current of the circuit."
+  },
+  {
+    "id": 177,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is arc flash?",
+    "back": "An arc flash is a sudden release of energy from an electrical fault that creates intense heat, light, and pressure. It can cause severe burns and injury even from a distance. Workers must wear rated protective equipment and follow safe procedures."
+  },
+  {
+    "id": 178,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the incident energy in an arc flash study?",
+    "back": "Incident energy is the amount of heat energy a worker could receive at a set distance during an arc flash. It is measured in calories per square centimetre. It sets the level of protective clothing required."
+  },
+  {
+    "id": 179,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How does faster overcurrent device operation reduce arc flash energy?",
+    "back": "Arc flash energy depends on how long the fault lasts, so a device that clears faster releases less energy. Lower clearing time means lower incident energy and safer conditions. This is why trip settings and coordination affect worker safety."
+  },
+  {
+    "id": 180,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a tie breaker in a double-ended substation?",
+    "back": "A tie breaker connects two sections of a switchboard or substation that are each fed by a separate source. Normally open, it can close to feed both sections from one source if the other fails. It improves reliability of the distribution."
+  },
+  {
+    "id": 181,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a main-tie-main arrangement?",
+    "back": "Main-tie-main uses two main breakers, each from its own source, with a normally open tie breaker between them. If one source fails, the tie closes so one source feeds both buses. Interlocks prevent paralleling the two sources unintentionally."
+  },
+  {
+    "id": 182,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a load break switch?",
+    "back": "A load break switch can safely open and close a circuit while it is carrying its normal load current. Unlike a plain isolating switch, it is built to break the arc of load current. It is common in medium-voltage equipment."
+  },
+  {
+    "id": 183,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why should an isolating (disconnect) switch not be opened under load?",
+    "back": "A plain isolating switch is not built to interrupt current and would draw a dangerous arc if opened under load. It is meant only to provide a visible break after current is already off. Use a breaker or load break switch to break the load first."
+  },
+  {
+    "id": 184,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a vacuum circuit breaker?",
+    "back": "A vacuum circuit breaker interrupts current by separating contacts inside a sealed vacuum bottle. The vacuum quickly quenches the arc with little maintenance. It is widely used in medium-voltage switchgear."
+  },
+  {
+    "id": 185,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is SF6 used for in switchgear?",
+    "back": "SF6 is an insulating gas used in some medium and high-voltage switchgear and breakers. It insulates and quenches arcs very effectively in a compact space. Its handling is regulated because it is a strong greenhouse gas."
+  },
+  {
+    "id": 186,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a pad-mounted transformer?",
+    "back": "A pad-mounted transformer is a sealed, ground-level unit on a concrete pad used with underground distribution. Its enclosure is tamper-resistant so it can sit in public areas. It steps utility medium voltage down for a building or site."
+  },
+  {
+    "id": 187,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a unit substation?",
+    "back": "A unit substation combines a transformer with incoming and outgoing switchgear in one coordinated lineup. It takes medium voltage in and delivers low-voltage distribution out. It is common in large commercial and industrial buildings."
+  },
+  {
+    "id": 188,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between emergency and standby power under the building code?",
+    "back": "Emergency power feeds life-safety loads such as exit signs and fire alarms and must come on very quickly. Standby power supports other important but non-life-safety loads. Emergency systems have stricter rules on transfer time and separation."
+  },
+  {
+    "id": 189,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "How fast must emergency lighting typically come on after power loss?",
+    "back": "Emergency lighting is generally required to come on within seconds of a power failure so people can see to exit. Battery units respond almost instantly, while generators may take longer to start. Always confirm the exact time in the applicable building code."
+  },
+  {
+    "id": 190,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a battery and inverter unit for emergency lighting?",
+    "back": "It is a self-contained unit with a battery, charger, and inverter that powers lights when the supply fails. The battery charges during normal operation and takes over instantly during an outage. It provides light long enough for safe building evacuation."
+  },
+  {
+    "id": 191,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is the difference between standby and prime rating on a generator?",
+    "back": "A standby rating is for backup use during utility outages with varying load and limited hours. A prime rating is for running as the main power source for long periods with a varying load. Continuous duty needs an even higher-rated machine."
+  },
+  {
+    "id": 192,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "Why is generator paralleling used in larger installations?",
+    "back": "Paralleling runs several generators together so capacity can be added in steps and units can be serviced without losing all power. It improves reliability and efficiency at partial loads. Synchronizing controls match voltage, frequency, and phase before connecting."
+  },
+  {
+    "id": 193,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What must be matched before paralleling two AC generators?",
+    "back": "Voltage, frequency, phase sequence, and phase angle must all match before the breaker closes. Connecting out of sync causes huge currents and severe mechanical shock. A synchroscope or automatic synchronizer confirms the match."
+  },
+  {
+    "id": 194,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What is a phase sequence (rotation) and why does it matter?",
+    "back": "Phase sequence is the order in which the three phases reach their peak, such as A-B-C. It sets the direction a three-phase motor turns. Wrong rotation can run a motor or pump backward, so it is checked before connecting equipment."
+  },
+  {
+    "id": 195,
+    "domain": "generating_distribution_and_service_systems",
+    "front": "What tool checks phase rotation on a three-phase system?",
+    "back": "A phase rotation tester (phase sequence indicator) connects to the three phases and shows whether the order is A-B-C or reversed. It confirms correct rotation before connecting motors. This avoids running equipment in the wrong direction."
+  },
+  {
+    "id": 196,
+    "domain": "wiring_systems",
+    "front": "What does AWG stand for and how does the number relate to conductor size?",
+    "back": "AWG stands for American Wire Gauge. It is a standard sizing system for conductors. The smaller the AWG number, the larger the conductor. For example, #14 AWG is small while #2 AWG is much larger."
+  },
+  {
+    "id": 197,
+    "domain": "wiring_systems",
+    "front": "What is kcmil and when is it used instead of AWG?",
+    "back": "kcmil means thousands of circular mils, a measure of conductor cross-sectional area. It is used for conductors larger than #4/0 AWG, where AWG numbers stop. For example, 250 kcmil and 500 kcmil are common large-conductor sizes."
+  },
+  {
+    "id": 198,
+    "domain": "wiring_systems",
+    "front": "What is the main difference between copper and aluminum conductors?",
+    "back": "Copper has higher conductivity, so a copper conductor carries more current than the same size aluminum conductor. Aluminum is lighter and cheaper but needs a larger size for the same ampacity. Aluminum also requires antioxidant compound and proper terminations to prevent overheating."
+  },
+  {
+    "id": 199,
+    "domain": "wiring_systems",
+    "front": "Why must aluminum conductor terminations be treated with care?",
+    "back": "Aluminum expands and contracts more than copper, which can loosen connections over time. Loose connections increase resistance and create heat. Use connectors rated for aluminum, apply antioxidant joint compound, and torque terminals to the specified value."
+  },
+  {
+    "id": 200,
+    "domain": "wiring_systems",
+    "front": "What does the insulation code RW90 mean?",
+    "back": "RW stands for thermoset insulation rated for wet locations, and 90 means a maximum conductor temperature of 90 degrees Celsius. RW90 is a common building wire insulation used in raceways. It is suitable for both wet and dry locations."
+  },
+  {
+    "id": 201,
+    "domain": "wiring_systems",
+    "front": "What does the insulation code T90 indicate?",
+    "back": "T90 is a thermoplastic insulation rated to 90 degrees Celsius in dry locations. The T means thermoplastic. It is often found as T90 Nylon building wire pulled into conduit. It is not rated for wet locations on its own unless marked RW."
+  },
+  {
+    "id": 202,
+    "domain": "wiring_systems",
+    "front": "What is NMD90 cable?",
+    "back": "NMD90 is non-metallic sheathed dry cable rated to 90 degrees Celsius. It is the common residential wiring cable in Canada, often called Loomex. It is used in dry, indoor locations and must be protected from physical damage and not used where exposed to moisture."
+  },
+  {
+    "id": 203,
+    "domain": "wiring_systems",
+    "front": "What does the 90 in NMD90, RW90, and TECK90 refer to?",
+    "back": "The 90 refers to the maximum rated conductor temperature of 90 degrees Celsius. This temperature rating sets the column used in CEC ampacity tables. Even at 90 degrees rating, terminations may limit the usable ampacity to the 75 degree column."
+  },
+  {
+    "id": 204,
+    "domain": "wiring_systems",
+    "front": "Why does termination temperature rating sometimes limit conductor ampacity?",
+    "back": "A conductor may be rated 90 degrees, but if the terminal or device is only rated 75 degrees, the lower rating controls. You must use the ampacity from the column matching the lowest-rated part of the circuit. This prevents overheating at the connection point."
+  },
+  {
+    "id": 205,
+    "domain": "wiring_systems",
+    "front": "What is CEC Table 2 used for?",
+    "back": "Table 2 gives the allowable ampacity of copper conductors in raceway or cable, based on insulation temperature rating. It assumes not more than three current-carrying conductors and an ambient temperature of 30 degrees Celsius. It is one of the most used tables in the trade."
+  },
+  {
+    "id": 206,
+    "domain": "wiring_systems",
+    "front": "What is CEC Table 4 used for?",
+    "back": "Table 4 gives the allowable ampacity of aluminum conductors in raceway or cable. It works the same way as Table 2 but for aluminum. Aluminum carries less current, so its values are lower than copper for the same size."
+  },
+  {
+    "id": 207,
+    "domain": "wiring_systems",
+    "front": "What base conditions do Table 2 and Table 4 assume?",
+    "back": "They assume an ambient temperature of 30 degrees Celsius and no more than three current-carrying conductors in the raceway or cable. If conditions differ, you must apply correction factors. These adjustments come from Tables 5A and 5C."
+  },
+  {
+    "id": 208,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #14 copper at 90C in Table 2?",
+    "back": "Number 14 copper at the 90 degree column is 15 amperes. However, Rule 14-104 limits #14 copper overcurrent protection to 15 amperes anyway. So a 15 amp breaker is the normal choice for this conductor."
+  },
+  {
+    "id": 209,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #12 copper at 90C in Table 2?",
+    "back": "Number 12 copper at the 90 degree column is 20 amperes. This conductor is commonly protected at 20 amperes. It is used for kitchen counter circuits and general 20 amp branch circuits."
+  },
+  {
+    "id": 210,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #10 copper at 90C in Table 2?",
+    "back": "Number 10 copper at the 90 degree column is 35 amperes. Rule 14-104 commonly limits #10 copper protection to 30 amperes for general use. It is used for dryers, water heaters, and similar loads."
+  },
+  {
+    "id": 211,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #8 copper at 90C in Table 2?",
+    "back": "Number 8 copper at the 90 degree column is 45 amperes. It is a common size for ranges and larger appliance circuits. Always check the termination rating before using the full 90 degree value."
+  },
+  {
+    "id": 212,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #6 copper RW90 at 90C?",
+    "back": "Number 6 copper at the 90 degree column of Table 2 is 65 amperes. It is widely used for sub-panels and large appliance feeds. If terminations are 75 degree rated, the usable value drops to 65 amperes at the 75 column as well in many references, so confirm the column."
+  },
+  {
+    "id": 213,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #4 copper at 90C in Table 2?",
+    "back": "Number 4 copper at the 90 degree column is 85 amperes. It is a common feeder size for sub-panels. Voltage drop should be checked on longer runs."
+  },
+  {
+    "id": 214,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #3 copper at 90C in Table 2?",
+    "back": "Number 3 copper at the 90 degree column is 100 amperes. It is often used for 100 amp feeders when copper is specified. Termination temperature ratings should be verified."
+  },
+  {
+    "id": 215,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #2 copper at 90C in Table 2?",
+    "back": "Number 2 copper at the 90 degree column is 115 amperes. This is a common conductor for larger sub-feeds. Aluminum would need a larger size to match this."
+  },
+  {
+    "id": 216,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #1/0 copper at 90C in Table 2?",
+    "back": "Number 1/0 copper at the 90 degree column is 150 amperes. It is used for service and feeder conductors. Always confirm the termination rating for the actual usable ampacity."
+  },
+  {
+    "id": 217,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #2/0 copper at 90C in Table 2?",
+    "back": "Number 2/0 copper at the 90 degree column is 175 amperes. It is a common service conductor size. Larger services often move into kcmil sizes above this."
+  },
+  {
+    "id": 218,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #4/0 copper at 90C in Table 2?",
+    "back": "Number 4/0 copper at the 90 degree column is 230 amperes. This is the largest AWG size before moving to kcmil. It is used for 200 amp services and feeders."
+  },
+  {
+    "id": 219,
+    "domain": "wiring_systems",
+    "front": "What is the allowable ampacity of #2/0 aluminum at 90C in Table 4?",
+    "back": "Number 2/0 aluminum at the 90 degree column of Table 4 is about 135 amperes. Aluminum carries less than copper, so larger sizes are needed for the same load. This is common for residential service entrance conductors."
+  },
+  {
+    "id": 220,
+    "domain": "wiring_systems",
+    "front": "Why is aluminum often used for service entrance conductors despite lower ampacity?",
+    "back": "Aluminum is lighter and much cheaper than copper for large sizes. Utilities and electricians often choose aluminum for service and feeder runs to save cost. The conductor is simply sized up to handle the required current."
+  },
+  {
+    "id": 221,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of CEC Table 5A?",
+    "back": "Table 5A provides correction factors for ambient temperatures other than 30 degrees Celsius. When the surrounding air is hotter, conductor ampacity must be reduced. When cooler, it may be increased. You multiply the table ampacity by the correction factor."
+  },
+  {
+    "id": 222,
+    "domain": "wiring_systems",
+    "front": "What happens to conductor ampacity when ambient temperature rises above 30C?",
+    "back": "Higher ambient temperature reduces the conductor's ability to shed heat. Therefore its allowable ampacity drops. You apply a correction factor less than 1.0 from Table 5A to the base ampacity."
+  },
+  {
+    "id": 223,
+    "domain": "wiring_systems",
+    "front": "Calculate: #6 copper RW90 (90A column not applicable). Apply a 0.88 ambient factor to 65A. What is the corrected ampacity?",
+    "back": "Multiply 65 amperes by 0.88. The corrected ampacity is 57.2 amperes. This is the adjusted value you would use to size overcurrent protection in that warmer environment."
+  },
+  {
+    "id": 224,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of CEC Table 5C?",
+    "back": "Table 5C provides derating factors when more than three current-carrying conductors share a raceway or cable. Bundled conductors trap heat, so ampacity must be reduced. The more conductors, the larger the reduction."
+  },
+  {
+    "id": 225,
+    "domain": "wiring_systems",
+    "front": "What derating applies for 4 to 6 current-carrying conductors per Table 5C?",
+    "back": "For 4 to 6 current-carrying conductors in a raceway, ampacity is derated to 80 percent. You multiply the base ampacity by 0.80. This accounts for the extra heat from bundling."
+  },
+  {
+    "id": 226,
+    "domain": "wiring_systems",
+    "front": "What derating applies for 7 to 24 current-carrying conductors per Table 5C?",
+    "back": "For 7 to 24 current-carrying conductors, ampacity is derated to 70 percent. You multiply base ampacity by 0.70. Crowding more conductors traps more heat and lowers capacity further."
+  },
+  {
+    "id": 227,
+    "domain": "wiring_systems",
+    "front": "Are neutral conductors always counted as current-carrying for derating?",
+    "back": "A neutral that only carries unbalanced current in a balanced multi-wire circuit is generally not counted. However, in circuits with significant harmonic or non-linear loads, the neutral is counted as current-carrying. Equipment grounding conductors are never counted."
+  },
+  {
+    "id": 228,
+    "domain": "wiring_systems",
+    "front": "Calculate: derate four #10 copper conductors at 90C in one conduit. Base is 35A. What is the result?",
+    "back": "Four current-carrying conductors require the 0.80 factor from Table 5C. Multiply 35 amperes by 0.80. The derated ampacity is 28 amperes."
+  },
+  {
+    "id": 229,
+    "domain": "wiring_systems",
+    "front": "What is voltage drop and why does it matter?",
+    "back": "Voltage drop is the loss of voltage along a conductor due to its resistance. Too much drop means equipment receives less voltage than rated, causing poor performance and overheating. The CEC limits voltage drop to keep systems efficient and safe."
+  },
+  {
+    "id": 230,
+    "domain": "wiring_systems",
+    "front": "What are the CEC voltage drop limits for branch circuits and overall?",
+    "back": "The CEC recommends a maximum of 3 percent voltage drop on a branch circuit. The total drop from the service to the point of use should not exceed 5 percent. Staying within these limits keeps equipment running properly."
+  },
+  {
+    "id": 231,
+    "domain": "wiring_systems",
+    "front": "How does conductor length affect voltage drop?",
+    "back": "Voltage drop increases as conductor length increases. A longer run has more total resistance, so more voltage is lost. Long runs often require upsizing the conductor to stay within the 3 percent or 5 percent limit."
+  },
+  {
+    "id": 232,
+    "domain": "wiring_systems",
+    "front": "How does increasing conductor size affect voltage drop?",
+    "back": "A larger conductor has lower resistance, so it loses less voltage. Upsizing the conductor reduces voltage drop on long runs. This is the usual fix when a calculation exceeds the allowable limit."
+  },
+  {
+    "id": 233,
+    "domain": "wiring_systems",
+    "front": "Calculate: what is 3 percent voltage drop on a 120V circuit?",
+    "back": "Three percent of 120 volts is 3.6 volts. So the voltage at the load should not drop below about 116.4 volts. This is the branch circuit limit for a 120 volt system."
+  },
+  {
+    "id": 234,
+    "domain": "wiring_systems",
+    "front": "Calculate: what is 5 percent voltage drop on a 240V circuit?",
+    "back": "Five percent of 240 volts is 12 volts. So the total allowable drop from source to load is 12 volts. The voltage at the load should stay at or above 228 volts."
+  },
+  {
+    "id": 235,
+    "domain": "wiring_systems",
+    "front": "What is EMT and where is it used?",
+    "back": "EMT stands for electrical metallic tubing, a thin-wall steel raceway. It is lightweight and bent easily, used in dry indoor commercial and industrial areas. It is joined with set-screw or compression fittings, not threaded, because the wall is too thin to thread."
+  },
+  {
+    "id": 236,
+    "domain": "wiring_systems",
+    "front": "What is RMC and how does it differ from EMT?",
+    "back": "RMC stands for rigid metal conduit, a thick-wall steel raceway with threaded ends. It is much stronger than EMT and offers good physical protection. It is used outdoors, underground, and in areas needing heavy mechanical protection."
+  },
+  {
+    "id": 237,
+    "domain": "wiring_systems",
+    "front": "What is PVC conduit and where is it commonly used?",
+    "back": "PVC is rigid non-metallic conduit made of polyvinyl chloride. It resists corrosion and moisture, making it ideal for underground and wet locations. It is joined with solvent cement and requires expansion fittings for long runs in temperature changes."
+  },
+  {
+    "id": 238,
+    "domain": "wiring_systems",
+    "front": "What is flexible metal conduit (FMC) used for?",
+    "back": "FMC, sometimes called Greenfield, is a flexible spiral metal raceway. It is used for connections to motors, transformers, and equipment that vibrates or must move. Its flexibility absorbs vibration and allows final connections in tight spots."
+  },
+  {
+    "id": 239,
+    "domain": "wiring_systems",
+    "front": "What is liquid-tight flexible conduit and where is it used?",
+    "back": "Liquid-tight flexible conduit has a flexible metal or non-metallic core covered by a watertight plastic jacket. It is used for equipment connections in wet, damp, or oily locations. Common uses include outdoor motors, pumps, and HVAC units."
+  },
+  {
+    "id": 240,
+    "domain": "wiring_systems",
+    "front": "Why must EMT not be threaded?",
+    "back": "EMT has a thin wall that is too thin to cut threads without weakening it. Threading would reduce the wall and create a weak point. Instead it uses set-screw or compression connectors and couplings."
+  },
+  {
+    "id": 241,
+    "domain": "wiring_systems",
+    "front": "What is the maximum conduit fill percentage for three or more conductors?",
+    "back": "For three or more conductors, the maximum raceway fill is 40 percent of the conduit's cross-sectional area. This leaves room for heat dissipation and easier pulling. The exact conductor and conduit areas come from CEC Tables in Appendix or the conduit fill tables."
+  },
+  {
+    "id": 242,
+    "domain": "wiring_systems",
+    "front": "What is the maximum conduit fill for one conductor and for two conductors?",
+    "back": "For a single conductor the maximum fill is 53 percent of the conduit area. For exactly two conductors the maximum is 31 percent. For three or more conductors the limit drops to 40 percent."
+  },
+  {
+    "id": 243,
+    "domain": "wiring_systems",
+    "front": "Why is conduit fill limited rather than filled completely?",
+    "back": "Leaving free space lets heat escape from the conductors and makes pulling wire easier. Overfilling causes overheating and can damage insulation during the pull. The fill limits balance safe heat dissipation with practical installation."
+  },
+  {
+    "id": 244,
+    "domain": "wiring_systems",
+    "front": "What is a 90 degree bend in conduit bending?",
+    "back": "A 90 degree bend, often called a stub-up, turns the conduit a quarter turn. The bender is placed at a calculated distance from the end so the stub reaches the required height. The take-up of the bender must be subtracted to get the mark."
+  },
+  {
+    "id": 245,
+    "domain": "wiring_systems",
+    "front": "What is take-up in conduit bending?",
+    "back": "Take-up is the distance from the end of the conduit to the bender mark for a 90 degree bend. It accounts for the rise gained through the bend. Each conduit size has its own take-up value, such as 5 inches for half-inch EMT."
+  },
+  {
+    "id": 246,
+    "domain": "wiring_systems",
+    "front": "What is an offset bend and why is it used?",
+    "back": "An offset uses two bends to shift the conduit run to a new level or to clear an obstacle. It is commonly used where conduit enters a box or panel that is not flush with the wall. The two bends are equal angles, like two 30 degree bends."
+  },
+  {
+    "id": 247,
+    "domain": "wiring_systems",
+    "front": "What is the maximum total bend allowed between pull points in a conduit run?",
+    "back": "The total of all bends between pull points must not exceed 360 degrees. That is the equivalent of four 90 degree bends. More than this makes pulling conductors too difficult, so a pull box is added."
+  },
+  {
+    "id": 248,
+    "domain": "wiring_systems",
+    "front": "What is a saddle bend used for?",
+    "back": "A saddle bend lets conduit cross over an obstacle such as a pipe and return to its original line. A three-point saddle uses a centre bend and two side bends. It keeps the conduit at the same level on both sides of the obstacle."
+  },
+  {
+    "id": 249,
+    "domain": "wiring_systems",
+    "front": "What is the multiplier for a 30 degree offset?",
+    "back": "For a 30 degree offset, the multiplier is 2. You multiply the offset depth by 2 to find the distance between the two bend marks. This is a common and easy-to-calculate offset angle."
+  },
+  {
+    "id": 250,
+    "domain": "wiring_systems",
+    "front": "Calculate: a 30 degree offset must clear a 4 inch obstacle. What is the distance between bends?",
+    "back": "The multiplier for 30 degrees is 2. Multiply the 4 inch depth by 2 to get 8 inches. So the two bend marks are placed 8 inches apart."
+  },
+  {
+    "id": 251,
+    "domain": "wiring_systems",
+    "front": "What is AC90 cable?",
+    "back": "AC90 is armoured cable with a flexible interlocked metal armour over insulated conductors, rated to 90 degrees Celsius. It is often called BX or Teck-lite in the field. It is used indoors in dry locations where some mechanical protection is needed."
+  },
+  {
+    "id": 252,
+    "domain": "wiring_systems",
+    "front": "What is TECK90 cable and where is it used?",
+    "back": "TECK90 is a tough armoured cable with interlocked aluminum armour and an overall PVC jacket, rated to 90 degrees Celsius. It is suited for wet, dry, hazardous, and underground locations. It is common in industrial plants and for direct feeds to equipment."
+  },
+  {
+    "id": 253,
+    "domain": "wiring_systems",
+    "front": "What is the difference between AC90 and TECK90?",
+    "back": "AC90 has armour but no overall outer jacket and is for indoor dry locations. TECK90 has armour plus a tough PVC jacket, making it suitable for wet, corrosive, and outdoor use. TECK90 is heavier and more rugged."
+  },
+  {
+    "id": 254,
+    "domain": "wiring_systems",
+    "front": "What support spacing is typical for NMD90 cable run along framing?",
+    "back": "NMD90 cable is generally supported within 300 mm of each box and at intervals not exceeding about 1.5 metres along the run. Supports are usually staples or straps. Proper support prevents sagging and strain on connections."
+  },
+  {
+    "id": 255,
+    "domain": "wiring_systems",
+    "front": "How must cable be protected where it passes through studs?",
+    "back": "Where cable passes through a stud, it should be kept back from the edge or protected by a steel plate. This protects the cable from drywall screws and nails. A bored hole near the centre of the stud helps keep the cable safe."
+  },
+  {
+    "id": 256,
+    "domain": "wiring_systems",
+    "front": "Why must TECK90 cable use proper connectors at boxes?",
+    "back": "TECK90 connectors grip the armour and jacket, providing strain relief and a bonding path. The correct connector keeps moisture out and maintains the bonding of the metal armour. Using the wrong fitting can break grounding continuity and let water in."
+  },
+  {
+    "id": 257,
+    "domain": "wiring_systems",
+    "front": "What is box fill and why is it regulated?",
+    "back": "Box fill is the total volume taken up by conductors, devices, and fittings inside an outlet box. It is regulated so conductors are not crammed in, which could damage insulation or cause overheating. CEC Rule 12-3000 sets the allowed number of conductors per box size."
+  },
+  {
+    "id": 258,
+    "domain": "wiring_systems",
+    "front": "What does CEC Rule 12-3000 cover?",
+    "back": "Rule 12-3000 covers the maximum number of conductors permitted in outlet, device, and junction boxes. It assigns a volume allowance for each conductor and deductions for devices and fittings. This prevents overcrowding inside boxes."
+  },
+  {
+    "id": 259,
+    "domain": "wiring_systems",
+    "front": "How are devices counted in box fill calculations?",
+    "back": "Each wiring device such as a switch or receptacle counts as the volume of one conductor of the largest size connected to it, often doubled in practice. All cable clamps together count as one conductor. These deductions reduce the number of free conductors allowed."
+  },
+  {
+    "id": 260,
+    "domain": "wiring_systems",
+    "front": "Why are all internal cable clamps counted as a single conductor in box fill?",
+    "back": "Cable clamps take up space inside the box and reduce room for conductors. The CEC counts all clamps together as one conductor deduction. This accounts for the space without overcomplicating the calculation."
+  },
+  {
+    "id": 261,
+    "domain": "wiring_systems",
+    "front": "What is a duplex receptacle?",
+    "back": "A duplex receptacle is a wiring device with two outlets in one yoke. It is the most common general-purpose outlet in homes and offices. Each half can be wired together or split for separate control."
+  },
+  {
+    "id": 262,
+    "domain": "wiring_systems",
+    "front": "What is a GFCI and how does it protect people?",
+    "back": "GFCI stands for ground fault circuit interrupter. It measures the current flowing out and back, and trips fast if it detects a small imbalance, around 5 milliamperes. This quick trip protects people from electric shock in wet areas like bathrooms and kitchens."
+  },
+  {
+    "id": 263,
+    "domain": "wiring_systems",
+    "front": "Where are GFCI receptacles required in dwellings?",
+    "back": "GFCI protection is required for receptacles near sinks, in bathrooms, outdoors, in garages, and at kitchen counters. These are wet or damp areas where shock risk is high. The CEC lists the specific locations needing GFCI protection."
+  },
+  {
+    "id": 264,
+    "domain": "wiring_systems",
+    "front": "What is a tamper-resistant receptacle and why is it required?",
+    "back": "A tamper-resistant receptacle has internal shutters that block objects unless both slots are pushed at once, as with a plug. This stops children from inserting objects and getting shocked. They are required in dwelling units for general receptacles."
+  },
+  {
+    "id": 265,
+    "domain": "wiring_systems",
+    "front": "What is the difference between a single-pole and a three-way switch?",
+    "back": "A single-pole switch controls a load from one location with a simple on and off. A three-way switch controls a load from two locations, using a pair of three-way switches and travellers. Three-way switches have no marked on or off positions."
+  },
+  {
+    "id": 266,
+    "domain": "wiring_systems",
+    "front": "What is a four-way switch used for?",
+    "back": "A four-way switch is used with two three-way switches to control a light from three or more locations. It is wired between the two three-way switches on the traveller conductors. Each added location uses another four-way switch."
+  },
+  {
+    "id": 267,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of Section 18 of the CEC?",
+    "back": "Section 18 covers hazardous locations where flammable gases, vapours, dusts, or fibres may be present. It sets special wiring methods to prevent ignition. The goal is to keep electrical equipment from becoming a source of explosion or fire."
+  },
+  {
+    "id": 268,
+    "domain": "wiring_systems",
+    "front": "What are the three classes of hazardous locations?",
+    "back": "Class I covers flammable gases and vapours, such as in refineries. Class II covers combustible dusts, such as in grain elevators. Class III covers ignitable fibres and flyings, such as in textile mills."
+  },
+  {
+    "id": 269,
+    "domain": "wiring_systems",
+    "front": "What is the difference between Zone and Division systems in hazardous locations?",
+    "back": "The Division system splits Class I areas into Division 1 and Division 2 based on how often hazards are present. The Zone system splits them into Zone 0, 1, and 2 with finer detail. Modern Canadian practice favours the Zone system for gas areas."
+  },
+  {
+    "id": 270,
+    "domain": "wiring_systems",
+    "front": "What wiring method is common in Class I hazardous locations?",
+    "back": "Class I locations often use threaded rigid metal conduit with explosion-proof seals and fittings. Approved cables like TECK90 with proper glands may also be permitted. The methods keep any internal spark contained and gases out."
+  },
+  {
+    "id": 271,
+    "domain": "wiring_systems",
+    "front": "What is a conduit seal and why is it used in hazardous locations?",
+    "back": "A conduit seal is a fitting filled with sealing compound that blocks gases from travelling through the conduit. It also stops an internal explosion from passing to another area. Seals are required at boundaries and near enclosures in hazardous locations."
+  },
+  {
+    "id": 272,
+    "domain": "wiring_systems",
+    "front": "What does explosion-proof equipment do?",
+    "back": "Explosion-proof equipment is built to contain an internal explosion without igniting the surrounding atmosphere. Its heavy enclosure cools escaping gases below the ignition temperature. It does not mean the enclosure cannot be damaged, only that it controls ignition."
+  },
+  {
+    "id": 273,
+    "domain": "wiring_systems",
+    "front": "What defines a wet location under the CEC?",
+    "back": "A wet location is one exposed to saturation with water or other liquids, such as outdoors, underground, or in direct contact with the earth. Conductors and equipment there must be rated for wet use. RW90 and TECK90 are examples of wet-rated wiring."
+  },
+  {
+    "id": 274,
+    "domain": "wiring_systems",
+    "front": "What is a damp location?",
+    "back": "A damp location is partially protected and subject to moderate moisture, such as under canopies or in some basements. It is not as severe as a wet location but still needs moisture-tolerant equipment. Equipment must be suitable for damp conditions."
+  },
+  {
+    "id": 275,
+    "domain": "wiring_systems",
+    "front": "Why must outdoor receptacles use weatherproof covers?",
+    "back": "Outdoor receptacles are exposed to rain and moisture, which can cause shock and corrosion. A weatherproof in-use cover keeps water out even when a cord is plugged in. This protects both the device and the user."
+  },
+  {
+    "id": 276,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of Section 8 of the CEC?",
+    "back": "Section 8 covers circuit loading and demand factors used to calculate service and feeder size. It tells you how to add up loads and apply demand factors. The result determines the minimum size of the service or feeder."
+  },
+  {
+    "id": 277,
+    "domain": "wiring_systems",
+    "front": "What is a demand factor?",
+    "back": "A demand factor recognises that not all loads run at full power at the same time. It lets you size conductors and services smaller than the full connected load. For example, only part of the lighting and appliance load may be counted at full value."
+  },
+  {
+    "id": 278,
+    "domain": "wiring_systems",
+    "front": "What is the minimum service size for a single dwelling under the CEC?",
+    "back": "A single dwelling generally requires a minimum service of 100 amperes. Larger homes with electric heat or large floor areas may need 200 amperes. The exact size comes from the Section 8 calculation."
+  },
+  {
+    "id": 279,
+    "domain": "wiring_systems",
+    "front": "How is the basic load for a dwelling calculated in Section 8?",
+    "back": "The calculation starts with a base allowance for the first 90 square metres of living area, then adds for additional area. Heating, air conditioning, ranges, and other loads are added with their demand factors. The total in watts divided by voltage gives the required ampacity."
+  },
+  {
+    "id": 280,
+    "domain": "wiring_systems",
+    "front": "Calculate: a 9600W range. At 240V what current does it draw at full load?",
+    "back": "Divide 9600 watts by 240 volts to get the current. The result is 40 amperes. Section 8 may apply a demand factor that reduces the calculated load for the service."
+  },
+  {
+    "id": 281,
+    "domain": "wiring_systems",
+    "front": "Why are electric ranges given a demand factor in service calculations?",
+    "back": "A range rarely uses all elements at full power at once, so its full nameplate rating overstates real demand. The CEC allows counting a reduced value, often 6000 watts for the first range. This avoids oversizing the service for a load that is rarely maxed out."
+  },
+  {
+    "id": 282,
+    "domain": "wiring_systems",
+    "front": "What is the difference between connected load and demand load?",
+    "back": "Connected load is the total of all equipment ratings added together. Demand load is the realistic amount expected to run at the same time, after applying demand factors. Service sizing uses demand load so equipment is not oversized."
+  },
+  {
+    "id": 283,
+    "domain": "wiring_systems",
+    "front": "What is the standard branch circuit conductor for general 15A receptacles?",
+    "back": "A general 15 ampere receptacle branch circuit uses #14 copper conductor protected at 15 amperes. This is the most common residential circuit. For 20 ampere circuits, #12 copper is used instead."
+  },
+  {
+    "id": 284,
+    "domain": "wiring_systems",
+    "front": "How many receptacles can be on a 15A general lighting branch circuit in a dwelling?",
+    "back": "The CEC limits a 15 ampere branch circuit to a maximum of 12 outlets in a dwelling. This keeps the circuit from being overloaded. Kitchen counter and dedicated circuits have their own rules."
+  },
+  {
+    "id": 285,
+    "domain": "wiring_systems",
+    "front": "What is a multi-wire branch circuit?",
+    "back": "A multi-wire branch circuit uses two ungrounded conductors on opposite phases sharing one neutral. The shared neutral carries only the unbalanced current. The two breakers must be tied together so both open at once for safety."
+  },
+  {
+    "id": 286,
+    "domain": "wiring_systems",
+    "front": "Why must the breakers of a multi-wire branch circuit be handle-tied?",
+    "back": "Both ungrounded conductors share a neutral, so working on one circuit can still energise the neutral from the other. Tying the handles ensures both legs are de-energised together. This protects workers from an unexpected live neutral."
+  },
+  {
+    "id": 287,
+    "domain": "wiring_systems",
+    "front": "What is the colour code for the bonding conductor in Canada?",
+    "back": "The bonding or grounding conductor is green, or green with a yellow stripe, or bare. It must never be used as a current-carrying conductor. This colour identifies the path that grounds equipment for safety."
+  },
+  {
+    "id": 288,
+    "domain": "wiring_systems",
+    "front": "What is the standard colour for the identified neutral conductor?",
+    "back": "The identified neutral, or grounded conductor, is white or natural grey. It carries the return current in a circuit. It must not be used as an ungrounded conductor."
+  },
+  {
+    "id": 289,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of an equipment bonding conductor?",
+    "back": "The equipment bonding conductor connects metal enclosures and equipment to ground. If a fault makes metal live, this path carries current back to trip the breaker. It keeps exposed metal at a safe potential and protects people from shock."
+  },
+  {
+    "id": 290,
+    "domain": "wiring_systems",
+    "front": "What is the difference between bonding and grounding?",
+    "back": "Bonding connects metal parts together to keep them at the same potential and provide a fault path. Grounding connects the system to the earth, usually through a ground electrode. Together they keep the system safe and stable."
+  },
+  {
+    "id": 291,
+    "domain": "wiring_systems",
+    "front": "How is the minimum size of a bonding conductor determined?",
+    "back": "The bonding conductor size is based on the rating of the overcurrent device protecting the circuit. CEC Table 16 gives the required bonding conductor size for each ampere rating. A larger circuit needs a larger bonding conductor."
+  },
+  {
+    "id": 292,
+    "domain": "wiring_systems",
+    "front": "What is CEC Table 16 used for?",
+    "back": "Table 16 gives the minimum size of bonding conductors based on the ampere rating of the circuit overcurrent device. You look up the breaker or fuse size to find the required bonding wire. This ensures the fault path can carry enough current to trip the device."
+  },
+  {
+    "id": 293,
+    "domain": "wiring_systems",
+    "front": "Why is conductor insulation colour important?",
+    "back": "Insulation colour identifies the function of each conductor, such as hot, neutral, or ground. Correct colours prevent dangerous wiring mistakes during connection and future service. It lets the next worker understand the circuit at a glance."
+  },
+  {
+    "id": 294,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of a junction box?",
+    "back": "A junction box encloses conductor splices and connections to protect them and contain any sparks. It must remain accessible for inspection and future work. Covers keep dust and contact away from the live splices."
+  },
+  {
+    "id": 295,
+    "domain": "wiring_systems",
+    "front": "Why must junction boxes remain accessible?",
+    "back": "Splices can fail or need inspection, so the box must be reachable without removing building finish. The CEC prohibits burying junction boxes behind permanent surfaces like drywall. Accessibility allows safe future maintenance."
+  },
+  {
+    "id": 296,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of a pull box in a conduit run?",
+    "back": "A pull box gives access to pull conductors through a long or complex conduit run. It is added when total bends approach 360 degrees or runs are very long. It reduces strain on conductors during the pull."
+  },
+  {
+    "id": 297,
+    "domain": "wiring_systems",
+    "front": "Why are conductor splices made with approved connectors?",
+    "back": "Approved connectors like marrettes or lugs create a secure, low-resistance joint. A poor splice can loosen, overheat, and start a fire. Using the correct connector for the conductor size and material is essential."
+  },
+  {
+    "id": 298,
+    "domain": "wiring_systems",
+    "front": "What is the function of a wire connector torque specification?",
+    "back": "Torque specifications set how tight a lug or terminal must be. Too loose causes high resistance and heat, too tight can damage the conductor. Following the torque value gives a reliable, safe connection."
+  },
+  {
+    "id": 299,
+    "domain": "wiring_systems",
+    "front": "What is the difference between stranded and solid conductors?",
+    "back": "Solid conductors are a single piece of metal, stiff and good for terminal screws. Stranded conductors are many small wires, more flexible and easier to pull in large sizes. Larger conductors are almost always stranded."
+  },
+  {
+    "id": 300,
+    "domain": "wiring_systems",
+    "front": "Why are larger conductors usually stranded rather than solid?",
+    "back": "A large solid conductor is too stiff to bend and pull through conduit. Stranding makes the conductor flexible while keeping the same cross-sectional area. This makes installation in raceways practical."
+  },
+  {
+    "id": 301,
+    "domain": "wiring_systems",
+    "front": "What is ampacity?",
+    "back": "Ampacity is the maximum current a conductor can carry continuously without exceeding its temperature rating. It depends on conductor size, insulation rating, ambient temperature, and how conductors are grouped. The CEC tables provide ampacity values."
+  },
+  {
+    "id": 302,
+    "domain": "wiring_systems",
+    "front": "How does conductor grouping reduce ampacity?",
+    "back": "Grouping conductors traps heat because they cannot shed it to the air as easily. This raises their temperature, so ampacity must be reduced. Table 5C derating factors handle this reduction."
+  },
+  {
+    "id": 303,
+    "domain": "wiring_systems",
+    "front": "What is the difference between free-air and in-conduit ampacity?",
+    "back": "A conductor in free air cools easily and carries more current. The same conductor in a conduit is surrounded and cannot shed heat as well, so its ampacity is lower. Different CEC tables apply for each condition."
+  },
+  {
+    "id": 304,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of an expansion fitting on PVC conduit?",
+    "back": "PVC expands and contracts a lot with temperature changes. An expansion fitting allows the conduit to move without cracking or pulling apart at joints. It is required on long PVC runs exposed to temperature swings."
+  },
+  {
+    "id": 305,
+    "domain": "wiring_systems",
+    "front": "Why is solvent cement used on PVC conduit joints?",
+    "back": "Solvent cement chemically welds the PVC pieces into a single solid joint. This creates a strong, watertight bond that resists moisture entry. A proper cemented joint is essential for underground and wet location runs."
+  },
+  {
+    "id": 306,
+    "domain": "wiring_systems",
+    "front": "What is the minimum burial depth concept for underground conductors?",
+    "back": "Underground conductors and raceways must be buried deep enough to protect them from damage. The required depth depends on the wiring method and whether there is mechanical protection. CEC tables give the specific depths for cables and conduits."
+  },
+  {
+    "id": 307,
+    "domain": "wiring_systems",
+    "front": "Why must underground PVC conduit have proper bedding?",
+    "back": "Bedding of sand or screened soil protects the conduit from sharp rocks. Sharp objects can crack or damage the conduit and conductors. Proper bedding extends the life of the buried system."
+  },
+  {
+    "id": 308,
+    "domain": "wiring_systems",
+    "front": "What is the role of a grounding electrode?",
+    "back": "A grounding electrode connects the electrical system to the earth. It stabilises voltage and provides a path for lightning and surge currents. Common electrodes include ground rods and metal water pipes meeting code requirements."
+  },
+  {
+    "id": 309,
+    "domain": "wiring_systems",
+    "front": "What is the typical minimum size of a grounding electrode conductor for a dwelling?",
+    "back": "For a typical residential service, the grounding electrode conductor is often #6 copper. The exact size depends on the service size and CEC rules. It connects the service to the ground electrode."
+  },
+  {
+    "id": 310,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of identifying conductors at both ends?",
+    "back": "Marking conductors at both ends lets workers trace and verify circuits during installation and service. This is especially important in panels and pull boxes with many conductors. It prevents miswiring and speeds troubleshooting."
+  },
+  {
+    "id": 311,
+    "domain": "wiring_systems",
+    "front": "What is the difference between a feeder and a branch circuit?",
+    "back": "A feeder runs from the service to a sub-panel or distribution point. A branch circuit runs from the final overcurrent device to the loads like lights and receptacles. Feeders carry larger combined loads than branch circuits."
+  },
+  {
+    "id": 312,
+    "domain": "wiring_systems",
+    "front": "Calculate: voltage drop limit. A 240V feeder, what is the maximum 5 percent total drop in volts?",
+    "back": "Five percent of 240 volts is 12 volts. The combined drop across the feeder and branch circuit should not exceed this. The conductor should be sized to stay under 12 volts of total loss."
+  },
+  {
+    "id": 313,
+    "domain": "wiring_systems",
+    "front": "Why does the CEC limit the number of conductors at a terminal?",
+    "back": "Most terminals are listed for only one conductor unless marked otherwise. Forcing extra conductors creates loose, high-resistance connections. Using a pigtail or a listed multi-conductor terminal solves this safely."
+  },
+  {
+    "id": 314,
+    "domain": "wiring_systems",
+    "front": "What is a pigtail connection and why is it used?",
+    "back": "A pigtail is a short conductor that connects the circuit conductors to a single device terminal through a connector. It lets multiple conductors join while keeping only one wire on the terminal. It also keeps the circuit intact if a device is removed."
+  },
+  {
+    "id": 315,
+    "domain": "wiring_systems",
+    "front": "Why must the neutral remain continuous on a multi-wire circuit?",
+    "back": "If the shared neutral is broken while loads are connected, voltage can rise dangerously on the loads. Pigtailing the neutral keeps it continuous even if a device is removed. This prevents damaging over-voltage and is required practice."
+  },
+  {
+    "id": 316,
+    "domain": "wiring_systems",
+    "front": "What is the maximum number of #12 copper THHN type conductors common practice limits in half-inch EMT?",
+    "back": "Conduit fill tables limit the count based on the 40 percent rule. For half-inch EMT, a small number of #12 conductors fit, often around nine for that size and insulation. Always confirm with the actual CEC conduit fill table for the insulation type."
+  },
+  {
+    "id": 317,
+    "domain": "wiring_systems",
+    "front": "Why is it important to deburr cut conduit ends?",
+    "back": "Cutting conduit leaves sharp burrs that can slice conductor insulation during a pull. Deburring with a reamer smooths the inside edge. This protects the conductors and prevents future faults."
+  },
+  {
+    "id": 318,
+    "domain": "wiring_systems",
+    "front": "What is the function of a bushing on a conduit end?",
+    "back": "A bushing protects conductors from the sharp edge of a conduit where it enters a box. Some bushings also provide a bonding point. It guards insulation against damage at the entry point."
+  },
+  {
+    "id": 319,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of an anti-short bushing in armoured cable?",
+    "back": "An anti-short bushing, often a red plastic insert, fits between the conductors and the cut armour of AC90 cable. It protects insulation from the sharp armour edge. It is required at every armoured cable termination."
+  },
+  {
+    "id": 320,
+    "domain": "wiring_systems",
+    "front": "Why must conductors be derated when bundled in a cable tray?",
+    "back": "Bundled conductors in a tray cannot shed heat as well as spaced ones. The trapped heat raises temperature, so ampacity must be reduced. The CEC has specific factors for cable tray installations."
+  },
+  {
+    "id": 321,
+    "domain": "wiring_systems",
+    "front": "What is the function of a cable tray?",
+    "back": "A cable tray is an open support system that carries many cables along a route. It is common in industrial and commercial buildings for easy access and additions. Cables in trays must be rated and supported correctly."
+  },
+  {
+    "id": 322,
+    "domain": "wiring_systems",
+    "front": "Why are minimum bending radii specified for cables?",
+    "back": "Bending a cable too tightly can crack insulation and damage conductors. A minimum bending radius keeps the cable safe during installation. The radius is usually a multiple of the cable diameter."
+  },
+  {
+    "id": 323,
+    "domain": "wiring_systems",
+    "front": "What is the typical minimum bending radius for TECK90 cable?",
+    "back": "TECK90 typically has a minimum bending radius of several times its overall diameter, often around twelve times for larger sizes. The exact value comes from the manufacturer and CEC. Respecting this protects the armour and insulation."
+  },
+  {
+    "id": 324,
+    "domain": "wiring_systems",
+    "front": "Why must conductor ampacity match the overcurrent device?",
+    "back": "The overcurrent device must protect the conductor from carrying more current than its ampacity. If the breaker is too large, the conductor could overheat before tripping. Matching them prevents fires and equipment damage."
+  },
+  {
+    "id": 325,
+    "domain": "wiring_systems",
+    "front": "What is the rule of thumb relationship between conductor ampacity and breaker size?",
+    "back": "Generally the conductor ampacity must be equal to or greater than the breaker rating. The breaker is sized to trip before the conductor overheats. Certain motor and continuous loads have special sizing rules."
+  },
+  {
+    "id": 326,
+    "domain": "wiring_systems",
+    "front": "What is a continuous load and how does it affect sizing?",
+    "back": "A continuous load runs for three hours or more, such as lighting in a store. Conductors and overcurrent devices for continuous loads are sized at 125 percent of the load. This extra margin prevents overheating from steady operation."
+  },
+  {
+    "id": 327,
+    "domain": "wiring_systems",
+    "front": "Calculate: a 16A continuous load. At 125 percent, what minimum ampacity is needed?",
+    "back": "Multiply 16 amperes by 1.25 to get 20 amperes. The conductor and breaker should be sized for at least 20 amperes. This margin handles the heat of long-running operation."
+  },
+  {
+    "id": 328,
+    "domain": "wiring_systems",
+    "front": "Why are kitchen counter receptacles on dedicated circuits?",
+    "back": "Kitchen counters power high-demand appliances like kettles and toasters. Dedicated 20 ampere circuits prevent overloading and nuisance tripping. The CEC requires split or dedicated circuits to handle these loads safely."
+  },
+  {
+    "id": 329,
+    "domain": "wiring_systems",
+    "front": "What is a split receptacle on a kitchen counter?",
+    "back": "A split receptacle has its two halves fed by separate ungrounded conductors sharing a neutral. Each half is on its own breaker leg. This lets two appliances draw current without overloading one circuit."
+  },
+  {
+    "id": 330,
+    "domain": "wiring_systems",
+    "front": "What does AFCI protection do?",
+    "back": "AFCI stands for arc fault circuit interrupter. It detects dangerous arcing in wiring, such as from a damaged cord, and trips to prevent fire. The CEC requires AFCI protection on many dwelling branch circuits."
+  },
+  {
+    "id": 331,
+    "domain": "wiring_systems",
+    "front": "Where does the CEC require AFCI protection in dwellings?",
+    "back": "AFCI protection is required on most branch circuits supplying receptacles in dwelling living areas. These include bedrooms and similar rooms where damaged cords are common. The goal is to reduce electrical fires."
+  },
+  {
+    "id": 332,
+    "domain": "wiring_systems",
+    "front": "What is the difference between a GFCI and an AFCI?",
+    "back": "A GFCI protects people from shock by detecting current imbalance to ground. An AFCI protects against fire by detecting dangerous arcing. Some devices combine both functions in one breaker or receptacle."
+  },
+  {
+    "id": 333,
+    "domain": "wiring_systems",
+    "front": "Why must conductor insulation be suitable for the operating temperature?",
+    "back": "Insulation has a maximum temperature rating it can handle without breaking down. If conductors run hotter than the insulation allows, it cracks and fails. Choosing insulation rated for the conditions keeps the circuit safe."
+  },
+  {
+    "id": 334,
+    "domain": "wiring_systems",
+    "front": "What is the function of liquid-tight connectors on flexible conduit?",
+    "back": "Liquid-tight connectors seal the ends of liquid-tight conduit to keep water out. They maintain the watertight rating at boxes and equipment. They also provide strain relief and bonding for the run."
+  },
+  {
+    "id": 335,
+    "domain": "wiring_systems",
+    "front": "Why is flexible conduit limited in length for some applications?",
+    "back": "Long flexible conduit can have higher resistance in its bonding path and sag without support. The CEC limits its length where it is relied on for bonding. Beyond the limit, a separate bonding conductor is required."
+  },
+  {
+    "id": 336,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of support spacing rules for conduit?",
+    "back": "Support spacing rules keep conduit from sagging and straining at connections. Each conduit type and size has maximum support intervals and a support near boxes. Proper support keeps the raceway secure and safe."
+  },
+  {
+    "id": 337,
+    "domain": "wiring_systems",
+    "front": "How often must EMT be supported in a typical run?",
+    "back": "EMT is generally supported within 1 metre of each box and at intervals not exceeding about 1.5 metres. Vertical runs may allow slightly wider spacing. Proper support prevents sagging and joint stress."
+  },
+  {
+    "id": 338,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of identifying high-leg or specific phase conductors?",
+    "back": "In some systems one conductor has a different voltage to ground and must be marked, often orange. This warns workers of the higher voltage on that leg. Clear identification prevents dangerous connection errors."
+  },
+  {
+    "id": 339,
+    "domain": "wiring_systems",
+    "front": "Why must metal raceways be electrically continuous?",
+    "back": "A continuous metal raceway can serve as a bonding path back to the panel. Breaks in continuity interrupt the fault path and leave metal unprotected. Connectors and couplings must maintain solid electrical contact."
+  },
+  {
+    "id": 340,
+    "domain": "wiring_systems",
+    "front": "What is the function of a reducing washer or reducer in a knockout?",
+    "back": "A reducing washer adapts a larger knockout to a smaller conduit or connector. It fills the gap and helps maintain bonding continuity. It must still provide a secure, tight connection."
+  },
+  {
+    "id": 341,
+    "domain": "wiring_systems",
+    "front": "Why must conductors not be spliced inside a conduit?",
+    "back": "Splices need to be accessible and contained in a box for inspection and heat control. A splice inside conduit cannot be reached and can fail unseen. The CEC requires splices to be made only in accessible boxes."
+  },
+  {
+    "id": 342,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of colour-coding three-phase conductors?",
+    "back": "Three-phase systems use consistent colours such as red, black, and blue to identify each phase. Consistent colours let workers match phases across a building. This prevents wiring errors and supports correct motor rotation."
+  },
+  {
+    "id": 343,
+    "domain": "wiring_systems",
+    "front": "Why is correct phase rotation important for three-phase motors?",
+    "back": "Phase rotation sets the direction a three-phase motor turns. Wrong rotation makes the motor spin backward, which can damage equipment like pumps. Matching phase colours and checking rotation prevents this problem."
+  },
+  {
+    "id": 344,
+    "domain": "wiring_systems",
+    "front": "What is the purpose of a conductor ampacity correction when conduit is in sunlight?",
+    "back": "Conduit exposed to direct sunlight on a rooftop heats up well above normal ambient. The conductors inside run hotter, so a temperature adder and Table 5A correction apply. This prevents the conductors from exceeding their insulation rating."
+  },
+  {
+    "id": 345,
+    "domain": "wiring_systems",
+    "front": "Why is good workmanship important in wiring systems?",
+    "back": "Neat, secure, and correct installation prevents loose connections, overheating, and faults. It also makes future inspection and service easier and safer. Good workmanship is a core expectation of the CEC and the trade."
+  },
+  {
+    "id": 346,
+    "domain": "motors_and_control_systems",
+    "front": "What is the formula for the synchronous speed of an AC motor?",
+    "back": "Synchronous speed in RPM equals 120 times the line frequency divided by the number of poles. So Ns = (120 x f) / P. This is the speed of the rotating magnetic field, not the actual rotor speed of an induction motor."
+  },
+  {
+    "id": 347,
+    "domain": "motors_and_control_systems",
+    "front": "What is the synchronous speed of a 4-pole motor on 60 Hz?",
+    "back": "Use Ns = (120 x f) / P. That is (120 x 60) / 4 = 7200 / 4 = 1800 RPM. The actual induction motor speed will be slightly less than this because of slip."
+  },
+  {
+    "id": 348,
+    "domain": "motors_and_control_systems",
+    "front": "What is the synchronous speed of a 2-pole motor on 60 Hz?",
+    "back": "Ns = (120 x 60) / 2 = 7200 / 2 = 3600 RPM. A 2-pole motor is the fastest standard induction motor on a 60 Hz supply."
+  },
+  {
+    "id": 349,
+    "domain": "motors_and_control_systems",
+    "front": "What is the synchronous speed of a 6-pole motor on 60 Hz?",
+    "back": "Ns = (120 x 60) / 6 = 7200 / 6 = 1200 RPM. Adding poles slows the motor down."
+  },
+  {
+    "id": 350,
+    "domain": "motors_and_control_systems",
+    "front": "What is the synchronous speed of an 8-pole motor on 60 Hz?",
+    "back": "Ns = (120 x 60) / 8 = 7200 / 8 = 900 RPM. More poles means a slower rotating field and slower motor."
+  },
+  {
+    "id": 351,
+    "domain": "motors_and_control_systems",
+    "front": "Define slip in an induction motor.",
+    "back": "Slip is the difference between the synchronous speed and the actual rotor speed, usually given as a percentage. The rotor must turn slower than the field so the field can cut the rotor bars and induce current. Without slip there would be no torque."
+  },
+  {
+    "id": 352,
+    "domain": "motors_and_control_systems",
+    "front": "Calculate percent slip for an 1800 RPM synchronous motor running at 1750 RPM.",
+    "back": "Slip percent = (Ns - Nr) / Ns x 100. That is (1800 - 1750) / 1800 x 100 = 50 / 1800 x 100 = about 2.8 percent. A few percent of slip is normal for a loaded induction motor."
+  },
+  {
+    "id": 353,
+    "domain": "motors_and_control_systems",
+    "front": "Why must an induction motor rotor run slower than synchronous speed?",
+    "back": "If the rotor turned at synchronous speed, the rotating field would not cut the rotor bars, so no voltage and no current would be induced. With no rotor current there is no torque. The rotor always lags the field by the slip amount when carrying a load."
+  },
+  {
+    "id": 354,
+    "domain": "motors_and_control_systems",
+    "front": "What happens to slip when load on an induction motor increases?",
+    "back": "Slip increases as load increases because the rotor slows down a little to draw more torque. More slip means more rotor current and more torque. At no load the motor runs very close to synchronous speed."
+  },
+  {
+    "id": 355,
+    "domain": "motors_and_control_systems",
+    "front": "Name the two main parts of an induction motor.",
+    "back": "The stator is the stationary part that holds the windings and creates the rotating magnetic field. The rotor is the rotating part inside the stator. In most motors the rotor is a squirrel cage made of conductive bars shorted at each end."
+  },
+  {
+    "id": 356,
+    "domain": "motors_and_control_systems",
+    "front": "What is a squirrel cage rotor?",
+    "back": "A squirrel cage rotor is a rotor made of conductive bars set in a laminated iron core and shorted together by end rings. The rotating stator field induces current in these bars, which creates the rotor magnetic field and torque. It is rugged, low cost, and needs no brushes."
+  },
+  {
+    "id": 357,
+    "domain": "motors_and_control_systems",
+    "front": "How does a three-phase induction motor create a rotating magnetic field?",
+    "back": "The three phase windings are spaced 120 electrical degrees apart and carry currents that peak at different times. As each phase peaks in turn, the magnetic field shifts smoothly around the stator. This naturally rotating field pulls the rotor along with it, so no extra starting device is needed."
+  },
+  {
+    "id": 358,
+    "domain": "motors_and_control_systems",
+    "front": "How do you reverse the direction of a three-phase motor?",
+    "back": "Swap any two of the three line leads feeding the motor. This reverses the rotation of the magnetic field, so the rotor spins the other way. There is no need to touch all three leads, just any two."
+  },
+  {
+    "id": 359,
+    "domain": "motors_and_control_systems",
+    "front": "Why do single-phase motors need a starting method?",
+    "back": "A single-phase winding alone produces a pulsing field, not a rotating one, so it cannot start a motor on its own. A second winding or a capacitor is used to create a phase shift and a rotating field for starting. Once running, the main winding keeps it going."
+  },
+  {
+    "id": 360,
+    "domain": "motors_and_control_systems",
+    "front": "What is a capacitor-start single-phase motor?",
+    "back": "It uses a start capacitor in series with a start winding to create a strong phase shift and high starting torque. A centrifugal switch disconnects the start winding once the motor reaches about 75 percent of speed. It is common on pumps, compressors, and other hard-starting loads."
+  },
+  {
+    "id": 361,
+    "domain": "motors_and_control_systems",
+    "front": "What is a split-phase single-phase motor?",
+    "back": "A split-phase motor uses a start winding with higher resistance than the run winding to create a small phase shift for starting. It has low starting torque and is used on easy-to-start loads like small fans. A centrifugal switch drops out the start winding at speed."
+  },
+  {
+    "id": 362,
+    "domain": "motors_and_control_systems",
+    "front": "How do you reverse a split-phase or capacitor-start single-phase motor?",
+    "back": "Reverse the connections of the start winding relative to the run winding. Swapping the two start winding leads reverses the rotation. You cannot reverse it simply by swapping the line leads like a three-phase motor."
+  },
+  {
+    "id": 363,
+    "domain": "motors_and_control_systems",
+    "front": "What is a shaded-pole motor?",
+    "back": "A shaded-pole motor uses a copper shading ring on part of each pole to delay the field and create a weak rotating effect for starting. It has very low starting torque and low efficiency. It is used in small light loads like clock motors and small fans."
+  },
+  {
+    "id": 364,
+    "domain": "motors_and_control_systems",
+    "front": "What is the main feature of a synchronous motor?",
+    "back": "A synchronous motor runs at exactly synchronous speed with zero slip once it is up to speed. Its rotor is locked in step with the rotating field, usually by DC excitation on the rotor. It is used where constant speed or power factor correction is needed."
+  },
+  {
+    "id": 365,
+    "domain": "motors_and_control_systems",
+    "front": "How can a synchronous motor improve power factor?",
+    "back": "By overexciting its DC rotor field, a synchronous motor can draw a leading current that cancels out lagging current from other inductive loads. This raises the overall plant power factor. A synchronous motor used this way is sometimes called a synchronous condenser."
+  },
+  {
+    "id": 366,
+    "domain": "motors_and_control_systems",
+    "front": "Why does a synchronous motor usually need a starting method?",
+    "back": "A synchronous motor has no starting torque of its own because the rotor cannot instantly lock to the fast-moving field. Most use amortisseur or damper windings to start like an induction motor, then the DC field is applied to pull into step. Some use a separate pony motor or VFD to bring it up to speed."
+  },
+  {
+    "id": 367,
+    "domain": "motors_and_control_systems",
+    "front": "What are the main parts of a DC motor?",
+    "back": "A DC motor has a stationary field made by field windings or permanent magnets, and a rotating armature. The commutator and brushes switch current in the armature so torque stays in one direction. The brushes are a wear item that must be inspected."
+  },
+  {
+    "id": 368,
+    "domain": "motors_and_control_systems",
+    "front": "What does the commutator do in a DC motor?",
+    "back": "The commutator is a segmented ring on the armature that reverses the current direction in the armature coils as they rotate. This keeps the torque pushing the same way so the motor turns continuously. The brushes ride on the commutator to deliver current."
+  },
+  {
+    "id": 369,
+    "domain": "motors_and_control_systems",
+    "front": "How do you reverse a DC motor?",
+    "back": "Reverse the current through either the armature or the field, but not both. If you reverse both, the motor turns the same way. Usually the armature connections are swapped to reverse direction."
+  },
+  {
+    "id": 370,
+    "domain": "motors_and_control_systems",
+    "front": "What is a series DC motor known for?",
+    "back": "A series DC motor has its field winding in series with the armature, giving very high starting torque. Its speed varies a lot with load and it can overspeed dangerously if the load is removed. It is used in traction and hoisting where high starting torque matters."
+  },
+  {
+    "id": 371,
+    "domain": "motors_and_control_systems",
+    "front": "What is a shunt DC motor known for?",
+    "back": "A shunt DC motor has its field winding in parallel with the armature, giving fairly constant speed under varying load. It has moderate starting torque and good speed regulation. It suits loads needing steady speed."
+  },
+  {
+    "id": 372,
+    "domain": "motors_and_control_systems",
+    "front": "What information is found on a motor nameplate?",
+    "back": "The nameplate lists voltage, full load amperes, horsepower, RPM, frequency, number of phases, service factor, insulation class, and frame size. It also shows the duty rating and enclosure type. This data is used for proper conductor, overload, and disconnect sizing."
+  },
+  {
+    "id": 373,
+    "domain": "motors_and_control_systems",
+    "front": "What does FLA mean on a motor nameplate?",
+    "back": "FLA stands for full load amperes, the current the motor draws at rated load, voltage, and frequency. It is the actual nameplate current of that specific motor. It is used for setting overload protection."
+  },
+  {
+    "id": 374,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between nameplate FLA and the CEC table current?",
+    "back": "Nameplate FLA is the actual current of one specific motor and is used to set overloads. The Canadian Electrical Code Table 44 gives standard full load current values used to size branch conductors and protective devices. The two values can differ, so use the correct one for each task."
+  },
+  {
+    "id": 375,
+    "domain": "motors_and_control_systems",
+    "front": "Which CEC table gives full load currents for sizing motor branch conductors?",
+    "back": "Table 44 of the Canadian Electrical Code lists the standard full load current values for AC motors by horsepower and voltage. These table values, not the nameplate FLA, are used when sizing branch circuit conductors. This keeps sizing consistent across similar motors."
+  },
+  {
+    "id": 376,
+    "domain": "motors_and_control_systems",
+    "front": "What percentage of motor full load current is used to size branch circuit conductors?",
+    "back": "Motor branch circuit conductors must be sized at not less than 125 percent of the motor full load current for a single continuous-duty motor. This 125 percent allows for heating from the continuous load. The full load value comes from the CEC table, not the nameplate."
+  },
+  {
+    "id": 377,
+    "domain": "motors_and_control_systems",
+    "front": "Which CEC rule covers conductor sizing for a single motor branch circuit?",
+    "back": "Rule 28-106 of the Canadian Electrical Code covers the ampacity of conductors supplying a single motor. It requires the conductors to carry at least 125 percent of the motor full load current. This is a core motor wiring rule."
+  },
+  {
+    "id": 378,
+    "domain": "motors_and_control_systems",
+    "front": "A motor has a table full load current of 28 A. What minimum conductor ampacity is required?",
+    "back": "Apply 125 percent: 28 x 1.25 = 35 A. The branch conductors must have an ampacity of at least 35 A. Then pick a conductor and termination rating that meets or exceeds 35 A."
+  },
+  {
+    "id": 379,
+    "domain": "motors_and_control_systems",
+    "front": "A motor draws 40 A full load from the table. What is the minimum branch conductor ampacity?",
+    "back": "Multiply by 1.25: 40 x 1.25 = 50 A. The conductors must be rated at least 50 A. Select the wire size from the ampacity tables accordingly."
+  },
+  {
+    "id": 380,
+    "domain": "motors_and_control_systems",
+    "front": "Why are motor branch conductors sized at 125 percent rather than 100 percent?",
+    "back": "A motor running continuously at full load is treated as a continuous load that heats the conductors steadily. The extra 25 percent margin keeps the conductors from overheating over time. It is a safety and longevity factor."
+  },
+  {
+    "id": 381,
+    "domain": "motors_and_control_systems",
+    "front": "Which CEC rule deals with motor overload protection?",
+    "back": "Rule 28-300 of the Canadian Electrical Code covers overload protection of motors. It requires running overload protection sized to the motor full load and service factor. This protects the motor itself from sustained overcurrent."
+  },
+  {
+    "id": 382,
+    "domain": "motors_and_control_systems",
+    "front": "Does overload protection guard against short circuits?",
+    "back": "No. Overload protection responds to moderate, sustained overcurrent to protect the motor from overheating. Short circuit and ground fault protection is a separate, faster device that handles very large fault currents. The two work together."
+  },
+  {
+    "id": 383,
+    "domain": "motors_and_control_systems",
+    "front": "What is the purpose of short-circuit and ground-fault protection on a motor branch?",
+    "back": "It protects the conductors and equipment from very large fault currents caused by short circuits or ground faults. It must trip fast to limit damage and fire risk. This is provided by fuses or a circuit breaker ahead of the motor controller."
+  },
+  {
+    "id": 384,
+    "domain": "motors_and_control_systems",
+    "front": "Which CEC rule covers short-circuit and ground-fault protection of motor branch circuits?",
+    "back": "Rule 28-200 of the Canadian Electrical Code covers branch circuit short-circuit and ground-fault protection for motors. It sets the maximum rating of the fuse or breaker based on the motor type and full load current. Table 29 gives the multipliers to use."
+  },
+  {
+    "id": 385,
+    "domain": "motors_and_control_systems",
+    "front": "What does Table 29 of the CEC provide?",
+    "back": "Table 29 gives the maximum percentage ratings for motor branch circuit short-circuit and ground-fault protective devices. The percentage depends on the device type, such as a time-delay fuse, non-time-delay fuse, or inverse-time breaker. You multiply the motor full load current by the table value to find the maximum device rating."
+  },
+  {
+    "id": 386,
+    "domain": "motors_and_control_systems",
+    "front": "Why is the short-circuit device rating allowed to be higher than the motor full load current?",
+    "back": "A motor draws a large inrush current, often six to eight times full load, during starting. The short-circuit device must let this inrush pass without nuisance tripping, so it is rated well above full load. The overload device, not this device, protects against running overcurrent."
+  },
+  {
+    "id": 387,
+    "domain": "motors_and_control_systems",
+    "front": "What is a magnetic motor starter?",
+    "back": "A magnetic motor starter is a contactor combined with overload relays. The contactor uses an electromagnet coil to close the main power contacts, and the overload relay protects the motor. It lets a small control signal switch a large motor load safely."
+  },
+  {
+    "id": 388,
+    "domain": "motors_and_control_systems",
+    "front": "What is a contactor?",
+    "back": "A contactor is an electrically operated switch that opens and closes power contacts using a magnetic coil. Energizing the coil pulls the contacts closed to feed the motor. It handles high current but has no built-in overload protection by itself."
+  },
+  {
+    "id": 389,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between a contactor and a starter?",
+    "back": "A contactor is just the switching device with a coil and power contacts. A starter is a contactor plus overload relays that protect the motor. So every starter contains a contactor, but a plain contactor lacks the overload protection."
+  },
+  {
+    "id": 390,
+    "domain": "motors_and_control_systems",
+    "front": "What does an overload relay do in a starter?",
+    "back": "An overload relay senses motor current and trips the control circuit if the current stays too high for too long. This opens the contactor coil and stops the motor before it overheats. It usually has thermal or electronic sensing elements, one per phase."
+  },
+  {
+    "id": 391,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between a thermal and an electronic overload relay?",
+    "back": "A thermal overload relay uses heaters and bimetal strips that bend with heat to trip the contacts. An electronic overload relay uses current sensors and circuitry, often giving phase loss and adjustable settings. Electronic types are more accurate and offer more protection features."
+  },
+  {
+    "id": 392,
+    "domain": "motors_and_control_systems",
+    "front": "What is the purpose of a control transformer in a motor circuit?",
+    "back": "A control transformer steps the line voltage down to a lower control voltage, often 120 V, for the control circuit. This makes the pushbuttons and pilot devices safer to operate. It also isolates the control circuit from the line."
+  },
+  {
+    "id": 393,
+    "domain": "motors_and_control_systems",
+    "front": "Why is a 120 V control circuit common even on 600 V motors?",
+    "back": "Running the control circuit at 120 V keeps voltage on pushbuttons and pilot devices low and safer for workers. A control transformer steps the 600 V down to 120 V. The power contacts still switch the full 600 V to the motor."
+  },
+  {
+    "id": 394,
+    "domain": "motors_and_control_systems",
+    "front": "What is a pilot device in a control circuit?",
+    "back": "A pilot device is a low-power device that signals the control circuit, such as a pushbutton, selector switch, limit switch, pressure switch, or float switch. It tells the starter when to operate. Pilot devices carry the small control current, not the motor current."
+  },
+  {
+    "id": 395,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between a normally open and a normally closed contact?",
+    "back": "A normally open contact is open with no power and closes when actuated. A normally closed contact is closed at rest and opens when actuated. Start buttons are usually normally open, and stop buttons are usually normally closed."
+  },
+  {
+    "id": 396,
+    "domain": "motors_and_control_systems",
+    "front": "Describe a three-wire start-stop control circuit.",
+    "back": "A three-wire control uses a normally open start button, a normally closed stop button, and a holding contact across the start button. Pressing start energizes the coil, and the holding contact keeps it energized after the button is released. Pressing stop or a power loss drops out the coil."
+  },
+  {
+    "id": 397,
+    "domain": "motors_and_control_systems",
+    "front": "What is a seal-in or holding contact?",
+    "back": "A seal-in contact is an auxiliary contact of the starter wired in parallel with the start button. Once the coil energizes, this contact closes and keeps the coil powered after the start button is released. It is the heart of three-wire control."
+  },
+  {
+    "id": 398,
+    "domain": "motors_and_control_systems",
+    "front": "Why does a three-wire control circuit drop out on a power failure?",
+    "back": "When power is lost the coil de-energizes and the seal-in contact opens. When power returns the coil stays off until someone presses start again. This low-voltage protection stops motors from restarting unexpectedly after an outage."
+  },
+  {
+    "id": 399,
+    "domain": "motors_and_control_systems",
+    "front": "Describe a two-wire control circuit.",
+    "back": "A two-wire control uses a maintained device like a pressure or float switch directly in series with the coil. When the device closes, the motor runs, and when it opens the motor stops. There is no seal-in, so the motor restarts automatically after a power failure when the device is still closed."
+  },
+  {
+    "id": 400,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between two-wire and three-wire control regarding power loss?",
+    "back": "Three-wire control has low-voltage protection, so the motor stays off after power returns until someone presses start. Two-wire control restarts automatically when power returns if its maintained device is still closed. Choose two-wire only where automatic restart is safe."
+  },
+  {
+    "id": 401,
+    "domain": "motors_and_control_systems",
+    "front": "What is jogging a motor?",
+    "back": "Jogging means running a motor in short bursts to inch it into position. A jog button energizes the coil only while held, with the seal-in defeated so the motor stops the instant the button is released. It is used for setup and alignment."
+  },
+  {
+    "id": 402,
+    "domain": "motors_and_control_systems",
+    "front": "How is a jog function added to a start-stop circuit?",
+    "back": "A jog button is wired so that pressing it energizes the coil but bypasses or opens the seal-in path. This means the motor runs only while the jog button is held and stops when released. A jog relay or selector is often used to switch between run and jog modes."
+  },
+  {
+    "id": 403,
+    "domain": "motors_and_control_systems",
+    "front": "What is a reversing starter?",
+    "back": "A reversing starter uses two contactors, one for forward and one for reverse. The reverse contactor swaps two of the three line leads to change rotation. The two contactors must be interlocked so they can never close at the same time."
+  },
+  {
+    "id": 404,
+    "domain": "motors_and_control_systems",
+    "front": "Why must the two contactors in a reversing starter be interlocked?",
+    "back": "If both the forward and reverse contactors closed at once, two of the line leads would be shorted together, causing a direct phase-to-phase fault. Interlocking prevents both from energizing together. This protects the equipment and the wiring."
+  },
+  {
+    "id": 405,
+    "domain": "motors_and_control_systems",
+    "front": "What is mechanical interlocking in a reversing starter?",
+    "back": "Mechanical interlocking uses a physical linkage between the forward and reverse contactors so only one can close at a time. If one is closed, the linkage physically blocks the other. It is a backup to electrical interlocking."
+  },
+  {
+    "id": 406,
+    "domain": "motors_and_control_systems",
+    "front": "What is electrical interlocking in a reversing starter?",
+    "back": "Electrical interlocking wires a normally closed auxiliary contact of each contactor into the other contactor coil circuit. When forward is energized its contact opens the reverse coil path, and the reverse contactor cannot close. This prevents both from being on together."
+  },
+  {
+    "id": 407,
+    "domain": "motors_and_control_systems",
+    "front": "What is push-button interlocking in a reversing circuit?",
+    "back": "Push-button interlocking uses double-contact forward and reverse buttons. Pressing one button opens the opposite contactor coil path while closing its own. This lets the operator change direction without pressing stop first, but it must work with the other interlocks."
+  },
+  {
+    "id": 408,
+    "domain": "motors_and_control_systems",
+    "front": "What is a ladder diagram?",
+    "back": "A ladder diagram is a control schematic drawn like a ladder, with two vertical power rails and horizontal rungs between them. Each rung shows a control circuit with contacts on the left and a load, such as a coil, on the right. It is read left to right, top to bottom."
+  },
+  {
+    "id": 409,
+    "domain": "motors_and_control_systems",
+    "front": "How is a ladder diagram read?",
+    "back": "Read each rung from left to right, treating contacts as conditions that must be met for current to flow. The load on the right energizes only when the path of contacts is complete. Rungs are read from top to bottom in sequence."
+  },
+  {
+    "id": 410,
+    "domain": "motors_and_control_systems",
+    "front": "What is the difference between a schematic and a wiring diagram?",
+    "back": "A schematic, or ladder diagram, shows how the control logic works without regard to physical layout. A wiring diagram shows the actual physical connections and terminal locations of the components. Electricians use the schematic to understand the logic and the wiring diagram to connect the parts."
+  },
+  {
+    "id": 411,
+    "domain": "motors_and_control_systems",
+    "front": "What is a line or one-line diagram?",
+    "back": "A one-line diagram shows the power distribution using single lines to represent the conductors, even on three-phase systems. It shows the main components like transformers, breakers, and motors in order. It gives a quick overview of the power path, not the control details."
+  },
+  {
+    "id": 412,
+    "domain": "motors_and_control_systems",
+    "front": "What is direct on line, or DOL, starting?",
+    "back": "DOL starting connects the motor straight across the full line voltage to start it. It is simple and gives full starting torque but draws a large inrush current, often six to eight times full load. It is used where the supply and equipment can handle the inrush."
+  },
+  {
+    "id": 413,
+    "domain": "motors_and_control_systems",
+    "front": "Why is reduced voltage starting used?",
+    "back": "Reduced voltage starting lowers the starting current and the mechanical shock on the load and supply. It is used on larger motors where full DOL inrush would cause voltage dips or stress the driven equipment. Starting torque is reduced along with the current."
+  },
+  {
+    "id": 414,
+    "domain": "motors_and_control_systems",
+    "front": "How does wye-delta starting work?",
+    "back": "Wye-delta starting connects the motor windings in wye for starting, which lowers the voltage on each winding and reduces the inrush current to about one third of DOL. Once near full speed, the starter switches the windings to delta for normal running. The motor must have all six winding leads available."
+  },
+  {
+    "id": 415,
+    "domain": "motors_and_control_systems",
+    "front": "What starting current does wye-delta starting give compared to DOL?",
+    "back": "Wye-delta starting gives about one third of the DOL starting current and also about one third of the starting torque. This is because the wye connection puts less voltage on each winding during start. It suits loads that can start with reduced torque."
+  },
+  {
+    "id": 416,
+    "domain": "motors_and_control_systems",
+    "front": "What is a soft starter?",
+    "back": "A soft starter uses solid-state devices, usually SCRs, to gradually ramp the voltage up to the motor at start. This smoothly increases speed and limits the inrush current and mechanical shock. At full speed many soft starters use a bypass contactor to reduce heat."
+  },
+  {
+    "id": 417,
+    "domain": "motors_and_control_systems",
+    "front": "What is an autotransformer starter?",
+    "back": "An autotransformer starter uses tapped autotransformers to apply a reduced voltage to the motor at start, then switches to full voltage. The taps allow a choice of starting voltage and torque. It gives more starting torque per amp of line current than some other reduced voltage methods."
+  },
+  {
+    "id": 418,
+    "domain": "motors_and_control_systems",
+    "front": "What does VFD stand for and what does it do?",
+    "back": "VFD stands for variable frequency drive. It controls motor speed by changing the frequency and voltage supplied to the motor. By varying frequency it can run a motor smoothly from near zero up to and beyond rated speed."
+  },
+  {
+    "id": 419,
+    "domain": "motors_and_control_systems",
+    "front": "How does a VFD control motor speed?",
+    "back": "A VFD changes the frequency of the AC supplied to the motor, and synchronous speed depends on frequency. Lower frequency means lower speed and higher frequency means higher speed. It adjusts voltage along with frequency to keep proper motor flux."
+  },
+  {
+    "id": 420,
+    "domain": "motors_and_control_systems",
+    "front": "What are the three main sections of a VFD?",
+    "back": "A VFD has a rectifier that converts incoming AC to DC, a DC bus with capacitors that smooths and stores the DC, and an inverter that switches the DC back into variable frequency AC. The inverter usually uses IGBT transistors. Control electronics tie these sections together."
+  },
+  {
+    "id": 421,
+    "domain": "motors_and_control_systems",
+    "front": "Why must voltage be reduced along with frequency in a VFD?",
+    "back": "Lowering frequency without lowering voltage would over-saturate the motor iron and overheat it. A VFD keeps a roughly constant volts-per-hertz ratio so the magnetic flux stays correct. This keeps torque steady across the speed range."
+  },
+  {
+    "id": 422,
+    "domain": "motors_and_control_systems",
+    "front": "Name one benefit of using a VFD on a pump or fan.",
+    "back": "A VFD can slow the motor to match the needed flow, which saves large amounts of energy because power drops sharply with speed on pumps and fans. It also gives soft starting and smooth speed control. This reduces wear and energy costs."
+  },
+  {
+    "id": 423,
+    "domain": "motors_and_control_systems",
+    "front": "What does PLC stand for?",
+    "back": "PLC stands for programmable logic controller. It is a rugged industrial computer that replaces hard-wired relay control with software logic. It reads inputs, runs a program, and switches outputs to control machines."
+  },
+  {
+    "id": 424,
+    "domain": "motors_and_control_systems",
+    "front": "What are the main parts of a PLC system?",
+    "back": "A PLC has a processor or CPU that runs the program, input modules that read field devices like switches and sensors, and output modules that drive loads like coils and lights. A power supply feeds the system and a programming device loads the logic. Many PLCs are modular so cards can be added."
+  },
+  {
+    "id": 425,
+    "domain": "motors_and_control_systems",
+    "front": "How does a PLC scan work?",
+    "back": "A PLC repeatedly reads all inputs, runs the program logic once from top to bottom, then updates all outputs. This repeating cycle is called the scan. It happens many times per second, so the control seems instant."
+  },
+  {
+    "id": 426,
+    "domain": "motors_and_control_systems",
+    "front": "What programming language is most common for PLCs?",
+    "back": "Ladder logic is the most common PLC language because it looks like the relay ladder diagrams electricians already know. Contacts and coils on rungs represent the control logic. This makes it easy for trades to read and troubleshoot."
+  },
+  {
+    "id": 427,
+    "domain": "motors_and_control_systems",
+    "front": "What is the advantage of a PLC over hard-wired relay control?",
+    "back": "A PLC can change its control logic in software without rewiring, which makes changes fast and cheap. It also reduces panel size, adds diagnostics, and handles complex logic easily. Hard-wired relay control would need physical rewiring for any change."
+  },
+  {
+    "id": 428,
+    "domain": "motors_and_control_systems",
+    "front": "What is a PLC input device example versus an output device example?",
+    "back": "Input devices send signals into the PLC, such as pushbuttons, limit switches, proximity sensors, and float switches. Output devices are driven by the PLC, such as contactor coils, solenoids, pilot lights, and small motors. The PLC reads inputs and controls outputs based on its program."
+  },
+  {
+    "id": 429,
+    "domain": "motors_and_control_systems",
+    "front": "What is power factor?",
+    "back": "Power factor is the ratio of real power doing useful work to the total apparent power the supply must deliver. It ranges from zero to one, and one is ideal. A low power factor means more current is needed for the same useful power."
+  },
+  {
+    "id": 430,
+    "domain": "motors_and_control_systems",
+    "front": "Why do induction motors cause a lagging power factor?",
+    "back": "Induction motors draw magnetizing current to build the magnetic field, and this current lags the voltage. The lagging reactive current lowers the power factor, especially at light load. This means the supply carries extra current that does no useful work."
+  },
+  {
+    "id": 431,
+    "domain": "motors_and_control_systems",
+    "front": "How is power factor corrected on an inductive load?",
+    "back": "Power factor is corrected by adding capacitors that supply leading reactive current to offset the lagging current of motors. This reduces the total current drawn from the supply. Correcting power factor can lower demand charges and free up system capacity."
+  },
+  {
+    "id": 432,
+    "domain": "motors_and_control_systems",
+    "front": "What is the benefit of correcting power factor?",
+    "back": "Correcting power factor lowers the total current in the supply, which reduces conductor heating and voltage drop. It can also lower utility demand charges and free up transformer and feeder capacity. Less wasted current means a more efficient system."
+  },
+  {
+    "id": 433,
+    "domain": "motors_and_control_systems",
+    "front": "What is apparent power and its unit?",
+    "back": "Apparent power is the total power the supply must deliver, combining real power and reactive power. It is measured in volt-amperes, or VA, and larger amounts in kVA. It is found by multiplying voltage and current without considering phase angle."
+  },
+  {
+    "id": 434,
+    "domain": "motors_and_control_systems",
+    "front": "What is reactive power and its unit?",
+    "back": "Reactive power is the power that flows back and forth to build magnetic fields and does no net useful work. It is measured in volt-amperes reactive, or VAR, and larger amounts in kVAR. Motors and transformers draw lagging reactive power."
+  },
+  {
+    "id": 435,
+    "domain": "motors_and_control_systems",
+    "front": "What is real power and its unit?",
+    "back": "Real power is the power that does actual work, like turning a shaft or producing heat. It is measured in watts, or W, and larger amounts in kilowatts, kW. Real power equals apparent power multiplied by the power factor."
+  },
+  {
+    "id": 436,
+    "domain": "motors_and_control_systems",
+    "front": "What is a motor service factor?",
+    "back": "Service factor is a multiplier on the rated horsepower that the motor can handle continuously without damage under normal conditions. A service factor of 1.15 means the motor can carry 15 percent above rated load. It is shown on the nameplate and affects overload sizing."
+  },
+  {
+    "id": 437,
+    "domain": "motors_and_control_systems",
+    "front": "Why does motor service factor matter for overload sizing?",
+    "back": "The allowed overload setting depends on whether the motor has a service factor of 1.15 or higher or a lower one. Motors with a higher service factor can be set to a slightly higher overload percentage. Always check the nameplate service factor when setting overloads."
+  },
+  {
+    "id": 438,
+    "domain": "motors_and_control_systems",
+    "front": "What is motor inrush or locked rotor current?",
+    "back": "Inrush, or locked rotor current, is the high current a motor draws at the moment of starting before it speeds up. It is often six to eight times the full load current. Protective devices must allow this brief surge without tripping."
+  },
+  {
+    "id": 439,
+    "domain": "motors_and_control_systems",
+    "front": "What is a disconnect switch for a motor and why is it required?",
+    "back": "A motor disconnect is a switch that fully isolates the motor and controller from the supply for safe maintenance. The Code requires a means to disconnect within sight of the motor or capable of being locked open. It lets workers lock out and work safely."
+  },
+  {
+    "id": 440,
+    "domain": "motors_and_control_systems",
+    "front": "What does within sight of the motor mean in the Code?",
+    "back": "Within sight means the disconnect is visible and not more than about 9 metres away from the motor and its controller. This lets a worker see that the disconnect is open while working. If it cannot be within sight, a lockable disconnect is used."
+  },
+  {
+    "id": 441,
+    "domain": "motors_and_control_systems",
+    "front": "What is a NEMA or IEC motor enclosure rating used for?",
+    "back": "An enclosure rating describes how well a motor or control enclosure resists dust, water, and other conditions. It guides selection for indoor, outdoor, or hazardous areas. Choosing the right rating keeps the equipment protected for its environment."
+  },
+  {
+    "id": 442,
+    "domain": "motors_and_control_systems",
+    "front": "What is a limit switch used for in motor control?",
+    "back": "A limit switch is a mechanically actuated switch that detects when a moving part reaches a set position. It can stop a motor, reverse it, or signal a PLC at the end of travel. It is common on conveyors, gates, and machine tables."
+  },
+  {
+    "id": 443,
+    "domain": "motors_and_control_systems",
+    "front": "What is a selector switch in a control circuit?",
+    "back": "A selector switch is a pilot device with two or more fixed positions, such as hand-off-auto. It lets the operator choose a control mode by turning it. In auto the machine follows process devices, and in hand it runs manually."
+  },
+  {
+    "id": 444,
+    "domain": "motors_and_control_systems",
+    "front": "What does a hand-off-auto switch do?",
+    "back": "A hand-off-auto switch selects how a motor is controlled. In hand the motor runs manually, in off it stays off, and in auto it follows an automatic device like a float or pressure switch. It is a common three-position selector switch."
+  },
+  {
+    "id": 445,
+    "domain": "motors_and_control_systems",
+    "front": "What is a pilot light used for in a control panel?",
+    "back": "A pilot light shows the status of a circuit, such as run, stop, or fault, to the operator. A red light might mean running and a green light stopped, depending on the standard used. It is wired so it lights when its condition is true."
+  },
+  {
+    "id": 446,
+    "domain": "motors_and_control_systems",
+    "front": "What is an auxiliary contact on a contactor?",
+    "back": "An auxiliary contact is a small extra contact that operates along with the main contactor but carries only control current. It is used for seal-in, interlocking, and pilot lights. Auxiliary contacts can be normally open or normally closed."
+  },
+  {
+    "id": 447,
+    "domain": "motors_and_control_systems",
+    "front": "Calculate the synchronous speed of a 12-pole motor on 60 Hz.",
+    "back": "Ns = (120 x 60) / 12 = 7200 / 12 = 600 RPM. A high pole count gives a low speed. This kind of motor suits slow direct-drive loads."
+  },
+  {
+    "id": 448,
+    "domain": "motors_and_control_systems",
+    "front": "A motor has table full load current of 80 A. What is the minimum branch conductor ampacity?",
+    "back": "Apply 125 percent: 80 x 1.25 = 100 A. The branch conductors must have an ampacity of at least 100 A. Then choose the conductor size and termination rating to suit."
+  },
+  {
+    "id": 449,
+    "domain": "motors_and_control_systems",
+    "front": "What is a control relay and how does it differ from a contactor?",
+    "back": "A control relay is a small relay used in the control circuit to multiply or switch control signals, not motor power. It has light-duty contacts for control logic. A contactor is built to switch the heavy motor power directly."
+  },
+  {
+    "id": 450,
+    "domain": "motors_and_control_systems",
+    "front": "Why is a motor with a higher number of poles slower?",
+    "back": "Synchronous speed is 120 times frequency divided by the number of poles, so speed drops as poles increase. More poles mean the magnetic field steps around the stator in smaller jumps per cycle. On a fixed 60 Hz supply, an 8-pole motor runs at 900 RPM while a 2-pole runs at 3600 RPM."
+  },
+  {
+    "id": 451,
+    "domain": "signalling_and_communication_systems",
+    "front": "What are Class 1, Class 2, and Class 3 circuits under Section 16 of the CEC?",
+    "back": "These are categories of low-energy circuits. Class 1 circuits operate up to 30 volts or 1000 volt-amperes and are used for remote control and signalling. Class 2 circuits are limited in voltage and power so they are considered safe from fire and shock, like thermostat and most low-voltage controls. Class 3 circuits allow a bit more power than Class 2 but stay limited enough to reduce shock and fire risk."
+  },
+  {
+    "id": 452,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the main purpose of the power limits in Section 16 circuits?",
+    "back": "The power limits keep the energy in the circuit low enough that the wiring cannot easily start a fire or deliver a dangerous shock. Because the energy is limited, Class 2 and Class 3 circuits can use smaller conductors and lighter wiring methods. This makes installation easier and cheaper while staying safe."
+  },
+  {
+    "id": 453,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why does Class 1 wiring generally have to follow the same rules as regular power wiring?",
+    "back": "Class 1 circuits can carry more energy than Class 2 or Class 3, so they are not considered inherently safe from fire. Because of this, Class 1 conductors usually have to be installed in raceway or approved cable like normal branch circuit wiring. They also need proper overcurrent protection sized to the conductors."
+  },
+  {
+    "id": 454,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is extra-low-voltage (ELV) in the CEC?",
+    "back": "Extra-low-voltage means a circuit operating at 30 volts or less. At this level the risk of shock is greatly reduced compared to standard line voltage. Many signalling, control, and communication systems run at extra-low-voltage for safety."
+  },
+  {
+    "id": 455,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why must Class 2 and Class 3 cabling be kept separated from power conductors?",
+    "back": "Power conductors carry higher voltage and energy that could be coupled into the low-voltage cabling if they run together. This separation prevents shock hazards and electrical noise that could disrupt signals. The CEC requires a separation or barrier between the low-energy circuits and the line-voltage circuits."
+  },
+  {
+    "id": 456,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the source of a Class 2 circuit's protection?",
+    "back": "A Class 2 circuit is protected by its power source, usually a listed Class 2 power supply or transformer. The source itself limits the voltage and the current so the output stays within safe limits. Because the limiting is built into the supply, the wiring downstream does not need overcurrent protection like ordinary circuits."
+  },
+  {
+    "id": 457,
+    "domain": "signalling_and_communication_systems",
+    "front": "Name two standards that govern fire alarm system installation in Canada.",
+    "back": "ULC-S524 is the standard for the installation of fire alarm systems. ULC-S537 is the standard for the verification of fire alarm systems. Together they cover how a system is installed and then checked to confirm it works correctly."
+  },
+  {
+    "id": 458,
+    "domain": "signalling_and_communication_systems",
+    "front": "What does ULC-S524 cover?",
+    "back": "ULC-S524 is the Canadian standard for the installation of fire alarm systems. It sets the rules for how devices, wiring, and panels are installed in a building. Following it ensures the system is put in correctly before it is tested."
+  },
+  {
+    "id": 459,
+    "domain": "signalling_and_communication_systems",
+    "front": "What does ULC-S537 cover?",
+    "back": "ULC-S537 is the Canadian standard for the verification of fire alarm systems. Verification means checking that every device and circuit was installed and works as designed. A qualified person performs this check after installation and documents the results."
+  },
+  {
+    "id": 460,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is an initiating device in a fire alarm system?",
+    "back": "An initiating device is what starts an alarm signal. Examples include smoke detectors, heat detectors, manual pull stations, and sprinkler flow switches. When one of these detects fire conditions or is activated, it tells the control panel to respond."
+  },
+  {
+    "id": 461,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a notification appliance in a fire alarm system?",
+    "back": "A notification appliance is a device that warns building occupants of a fire. Examples are horns, bells, speakers, and strobe lights. They turn the alarm signal from the panel into sound and light that people can hear and see."
+  },
+  {
+    "id": 462,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the role of the fire alarm control panel (FACP)?",
+    "back": "The fire alarm control panel is the brain of the system. It receives signals from initiating devices, decides what to do, and activates the notification appliances. It also monitors all circuits for trouble and can signal a monitoring station."
+  },
+  {
+    "id": 463,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a supervised circuit in a fire alarm system?",
+    "back": "A supervised circuit is constantly monitored by the control panel for faults like open or short circuits. If a wire breaks or is disconnected, the panel detects the change and shows a trouble signal. This makes sure the system has not silently failed when it is needed."
+  },
+  {
+    "id": 464,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the purpose of an end-of-line resistor in a fire alarm circuit?",
+    "back": "An end-of-line resistor lets the control panel supervise the wiring of an initiating or notification circuit. A small current flows through the resistor at all times, so the panel knows the wire is intact. If the wire is cut or shorted, the current changes and the panel reports a trouble condition."
+  },
+  {
+    "id": 465,
+    "domain": "signalling_and_communication_systems",
+    "front": "What happens if an end-of-line resistor is missing or wired incorrectly?",
+    "back": "Without the correct end-of-line resistor, the panel cannot properly supervise the circuit. It will usually show a trouble signal because the expected current does not flow. This is why the resistor must be placed at the very end of the circuit, after the last device."
+  },
+  {
+    "id": 466,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the difference between a Class A and Class B fire alarm circuit?",
+    "back": "A Class B circuit is a single path; if the wire breaks, devices past the break stop working. A Class A circuit has a return path back to the panel, so if a single break occurs the panel can still reach all devices from the other direction. Class A gives more reliability but uses more wire."
+  },
+  {
+    "id": 467,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a smoke detector versus a heat detector?",
+    "back": "A smoke detector senses the particles produced by combustion and reacts early in a fire. A heat detector responds to a rise in temperature or a fixed temperature threshold. Smoke detectors give earlier warning, while heat detectors are used where smoke or dust is normally present."
+  },
+  {
+    "id": 468,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a manual pull station?",
+    "back": "A manual pull station is an initiating device that a person operates by hand to raise an alarm. It is mounted near exits so occupants can trigger the alarm when they see fire. Pulling or pressing it sends a signal to the control panel."
+  },
+  {
+    "id": 469,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is an annunciator in a fire alarm system?",
+    "back": "An annunciator is a panel that shows the status and location of alarms and troubles. It is often placed at the main entrance so firefighters can quickly see where a problem is. It helps responders locate the source of an alarm in a large building."
+  },
+  {
+    "id": 470,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a security and access control system?",
+    "back": "A security and access control system controls who can enter areas of a building and detects unauthorized entry. Access control uses card readers, keypads, or electric strikes on doors. Security parts include door contacts, motion detectors, and alarm sounders."
+  },
+  {
+    "id": 471,
+    "domain": "signalling_and_communication_systems",
+    "front": "How is a magnetic lock or electric strike typically released for fire safety?",
+    "back": "Door locks tied to access control must release to allow people to escape during a fire. They are usually connected so that a fire alarm signal or loss of power drops the lock. This fail-safe operation makes sure exits are not blocked during an emergency."
+  },
+  {
+    "id": 472,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a card reader in access control?",
+    "back": "A card reader is a device that reads an access credential such as a proximity card or fob. When a valid card is presented, the controller unlocks the door. It records who entered and when, giving a log of building access."
+  },
+  {
+    "id": 473,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a nurse call system?",
+    "back": "A nurse call system lets a patient signal staff for help from a bed or bathroom. Pressing a button lights a corridor dome light and signals a central station. It helps staff respond quickly and know which room needs attention."
+  },
+  {
+    "id": 474,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is an intercom system used for?",
+    "back": "An intercom system allows two-way voice communication between separate locations in a building. Common uses are door entry, room-to-room calling, and staff paging. It usually runs on low-voltage wiring with a master station and remote stations."
+  },
+  {
+    "id": 475,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a CCTV system?",
+    "back": "CCTV stands for closed-circuit television, a video surveillance system. Cameras send video to monitors or recorders that are not broadcast publicly. It is used to watch and record activity for security purposes."
+  },
+  {
+    "id": 476,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is an IP camera and how does it differ from an analog camera?",
+    "back": "An IP camera connects to a network and sends digital video over data cabling like Cat6. An analog camera sends a video signal over coaxial cable to a recorder. IP cameras can often be powered over the same network cable using Power over Ethernet."
+  },
+  {
+    "id": 477,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is Power over Ethernet (PoE)?",
+    "back": "Power over Ethernet sends both data and electrical power over a single network cable. It powers devices like IP cameras, phones, and wireless access points without a separate power supply. The power is low-voltage and limited, which makes it safe and convenient."
+  },
+  {
+    "id": 478,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the difference between Cat5e and Cat6 cable?",
+    "back": "Both are twisted-pair cables used for data networks. Cat6 has tighter manufacturing tolerances and often a separator inside, so it supports higher speeds and longer high-bandwidth runs than Cat5e. Cat6 handles gigabit and beyond more reliably over typical distances."
+  },
+  {
+    "id": 479,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the typical maximum run length for Cat5e or Cat6 horizontal cabling?",
+    "back": "Structured cabling standards limit a horizontal run to about 90 metres of solid cable, plus patch cords up to a total of 100 metres. Beyond this distance signal quality and speed drop off. Longer runs need active equipment or fibre."
+  },
+  {
+    "id": 480,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why are the pairs in network cable twisted?",
+    "back": "Twisting the pairs cancels out electromagnetic interference picked up along the cable. Each pair is twisted at a slightly different rate to reduce crosstalk between pairs. Keeping the twists intact close to the connector is important for performance."
+  },
+  {
+    "id": 481,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is coaxial cable used for?",
+    "back": "Coaxial cable carries high-frequency signals using a centre conductor surrounded by insulation and a shield. It is used for cable television, some CCTV cameras, and radio frequency feeds. The shield protects the signal from interference."
+  },
+  {
+    "id": 482,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is fibre optic cable and its main advantage?",
+    "back": "Fibre optic cable carries signals as pulses of light through glass or plastic strands. It can carry huge amounts of data over long distances with very low loss. Because it uses light, it is immune to electromagnetic interference and does not conduct electricity."
+  },
+  {
+    "id": 483,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the difference between single-mode and multimode fibre?",
+    "back": "Single-mode fibre has a very small core and carries one light path, allowing very long distance runs. Multimode fibre has a larger core and carries multiple light paths, used for shorter distances. Single-mode suits backbone and long links, while multimode suits in-building runs."
+  },
+  {
+    "id": 484,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is structured cabling?",
+    "back": "Structured cabling is an organized, standardized approach to building data and communication wiring. It uses a layout of backbone cabling, horizontal cabling, patch panels, and work area outlets. This makes the system easy to manage, troubleshoot, and expand."
+  },
+  {
+    "id": 485,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is horizontal cabling versus backbone cabling?",
+    "back": "Horizontal cabling runs from the telecommunications room out to the individual work area outlets on a floor. Backbone cabling connects telecommunications rooms, floors, and the main equipment room together. The backbone carries the combined traffic between areas."
+  },
+  {
+    "id": 486,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why must power and data cabling be kept separated?",
+    "back": "Power cables create electromagnetic fields that can induce noise into nearby data cables, degrading the signal. Keeping a separation distance or running them in different paths reduces this interference. It also reduces the chance of a power fault energizing the data wiring."
+  },
+  {
+    "id": 487,
+    "domain": "signalling_and_communication_systems",
+    "front": "What should you do when data cable must cross power cable?",
+    "back": "When crossing is unavoidable, the data and power cables should cross at a right angle (90 degrees). Crossing at right angles minimizes the length they run parallel and reduces induced noise. Running them parallel for long distances should be avoided."
+  },
+  {
+    "id": 488,
+    "domain": "signalling_and_communication_systems",
+    "front": "What does Section 60 of the CEC cover?",
+    "back": "Section 60 covers electrical communication systems, including telephone, data, and similar networks. It sets rules for the wiring, grounding, and bonding of these systems. It also addresses protection where communication conductors enter a building."
+  },
+  {
+    "id": 489,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why must communication systems be bonded and grounded under Section 60?",
+    "back": "Bonding and grounding give surges, lightning energy, and faults a safe path to earth. This protects equipment and people from dangerous voltages on the communication wiring. It also keeps the system at the same reference potential as the building's electrical system."
+  },
+  {
+    "id": 490,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a primary protector on a communication line?",
+    "back": "A primary protector is a device installed where outside communication cables enter a building. It limits surges and high voltages, often from lightning, before they reach equipment. It is bonded to the building grounding system so surge energy goes safely to ground."
+  },
+  {
+    "id": 491,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why should the communication ground be bonded to the building's main grounding electrode?",
+    "back": "Bonding all grounds together keeps them at the same potential, so there is no dangerous voltage difference between systems. A common ground prevents ground loops and protects equipment connected to both systems. The CEC requires this bonding for safety."
+  },
+  {
+    "id": 492,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is plenum cable?",
+    "back": "Plenum cable is cable rated for use in air-handling spaces such as the space above a dropped ceiling used for return air. Its jacket is made of material that produces less smoke and flame spread when it burns. This reduces the spread of toxic fumes through the building's air system in a fire."
+  },
+  {
+    "id": 493,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why can ordinary cable not be used in a plenum air space?",
+    "back": "Ordinary cable jackets can give off heavy smoke and toxic gases when they burn. In a plenum, the moving air would carry that smoke quickly throughout the building. Plenum-rated cable is required there because it limits flame spread and smoke."
+  },
+  {
+    "id": 494,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a riser-rated cable?",
+    "back": "Riser-rated cable is designed to run vertically between floors through shafts and risers. Its fire rating prevents flames from spreading from floor to floor along the cable. It is a step below plenum rating and is used in vertical pathways that are not air handling spaces."
+  },
+  {
+    "id": 495,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is building automation?",
+    "back": "Building automation is the central control of systems like heating, ventilation, air conditioning, lighting, and access. Sensors and controllers communicate over a network to run the building efficiently. It lets operators monitor and adjust systems from one place."
+  },
+  {
+    "id": 496,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a common communication protocol used in building automation?",
+    "back": "BACnet and Modbus are common protocols used to let building automation devices talk to each other. A protocol is an agreed set of rules for how devices exchange data. Using a standard protocol lets equipment from different makers work together."
+  },
+  {
+    "id": 497,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is a control panel's standby power requirement for a fire alarm system?",
+    "back": "A fire alarm panel must keep working if the building loses power, so it has battery backup. The batteries must support the system in standby for a set period and then power a full alarm for several minutes. This ensures the system still warns occupants during a power failure."
+  },
+  {
+    "id": 498,
+    "domain": "signalling_and_communication_systems",
+    "front": "What is the purpose of verifying a fire alarm system before occupancy?",
+    "back": "Verification confirms every device, circuit, and function works exactly as designed and meets the standard. It catches wiring mistakes, missing supervision, or devices that do not signal correctly. A documented verification is usually required before a building can be occupied."
+  },
+  {
+    "id": 499,
+    "domain": "signalling_and_communication_systems",
+    "front": "Why are conductor colours and labelling important in signalling and communication work?",
+    "back": "Consistent colours and labels let technicians identify circuits quickly and avoid wiring errors. In structured cabling, pair colours follow a fixed wiring scheme so both ends match. Clear labelling makes future troubleshooting and changes much faster and safer."
+  },
+  {
+    "id": 500,
+    "domain": "signalling_and_communication_systems",
+    "front": "What test confirms a data cable is wired and performing correctly?",
+    "back": "A cable certification test uses a tester to check wire mapping, length, and signal performance against the cable standard. It confirms each pair is connected to the right pin and that crosstalk and loss are within limits. Passing certification proves the run will support its rated speed."
+  }
+]
